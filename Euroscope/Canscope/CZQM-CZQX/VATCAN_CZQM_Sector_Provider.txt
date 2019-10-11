@@ -1,0 +1,10 @@
+EuroScope Sector File Provider File
+
+NAME:VATSIM CZQM Sector File Provider
+URL:http://czqm.ca/files/VATCAN_CZQM_Sector_Provider.txt
+DOWNLOADINTERVAL:24
+
+SECTOR_NAME:CZQM CZQX Moncton Gander FIR - VATSIM VATCAN
+SECTOR_FILE_NAME:CZQM-CZQX
+SECTOR_VERSION:2019_07_22_v140
+SECTOR_URL:http://czqm.ca/files/CZQM-CZQX_2019_07_22_v140.7z

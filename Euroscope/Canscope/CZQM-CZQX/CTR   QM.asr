@@ -1,0 +1,87 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC boundary:BIRD:
+ARTCC boundary:BOS-SPLIT:
+ARTCC boundary:BOSTON-MSS:
+ARTCC boundary:CL-TAFFY:
+ARTCC boundary:CZEG-CZQX:
+ARTCC boundary:CZQM-KZNY:
+ARTCC boundary:CZQM_FIR:
+ARTCC boundary:CZQX_CTR:
+ARTCC boundary:CZQX_OC:
+ARTCC boundary:CZUL-CZEG:
+ARTCC boundary:CZUL-CZQX:
+ARTCC boundary:CZUL-CZWG:
+ARTCC boundary:CZUL-KZBW:
+ARTCC boundary:CZUL_PON:
+ARTCC boundary:CZWG-CZEG:
+ARTCC boundary:EAST-SECTOR:
+ARTCC boundary:EGGX:
+ARTCC boundary:EGPX:
+ARTCC boundary:EGTT:
+ARTCC boundary:EISN:
+ARTCC boundary:EST:
+ARTCC boundary:KZBW_CTR:
+ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:KZBW_KZNY:
+ARTCC boundary:KZOB_CT:
+ARTCC boundary:LE-ZV:
+ARTCC boundary:LECM:
+ARTCC boundary:LFRR:
+ARTCC boundary:LPPC:
+ARTCC boundary:LPPO:
+ARTCC boundary:NORD:
+ARTCC boundary:NORD-YQB:
+ARTCC boundary:OUEST:
+ARTCC boundary:PO:
+ARTCC boundary:QE-QX:
+ARTCC boundary:WEST-SECTOR:
+ARTCC boundary:WK:
+ARTCC boundary:WK-ZV:
+ARTCC boundary:YBG_MTCU:
+ARTCC boundary:YUL:
+ARTCC boundary:YUY-25NM:
+ARTCC boundary:ZMPZOB:
+ARTCC boundary:ZMPZWG:
+ARTCC boundary:ZMPZYZ:
+ARTCC boundary:ZNY:
+ARTCC boundary:ZYZZOB:
+ARTCC high boundary:CZQM_280-:
+ARTCC high boundary:CZQX_180+:
+ARTCC high boundary:CZQX_CTR:
+ARTCC high boundary:MANIC:
+ARTCC high boundary:QE-QH:
+ARTCC high boundary:YZ-UL-GATE:
+ARTCC low boundary:CYHZ_APP:
+ARTCC low boundary:CYQM_CTR:
+ARTCC low boundary:CYQX_APP:
+ARTCC low boundary:CYSJ_APP:
+ARTCC low boundary:CYYR_APP:
+ARTCC low boundary:CYYT_APP:
+ARTCC low boundary:CYZX_APP:
+ARTCC low boundary:LFVP_APP:
+Fixes:ALLEX:name
+Fixes:ALLEX:symbol
+Fixes:EBONY:name
+Fixes:EBONY:symbol
+Fixes:JOOPY:name
+Fixes:JOOPY:symbol
+Fixes:TOPPS:name
+Fixes:TOPPS:symbol
+Geo:GEO:
+Stars:4.2 * CYR724 SFC-250:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:8
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:40.255528:-81.647695:54.146718:-43.903360

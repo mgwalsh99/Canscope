@@ -1,0 +1,35 @@
+
+.on Good evening, Halifax Tower is online.
+.off Halifax Tower is closing. Good night.
+.good Halifax Tower, Good evening. 
+
+.clear Cleared to $1 via the Halifax 4 departure. Flight Planned Route.  Squawk $2
+.clear2 Cleared to $1 flight planned route, climb runway heading for vectors, Maintain 5,000, Squawk $2
+.clearok Read back Correct, Push and Start Your Discretion, Call me when ready For Taxi, ATIS $1 is current.
+.taxirw Runway $1, Altimeter $2, Taxi Via $3, Hold Short Runway $1
+.taxito Welcome to Halifax, Taxi $1, Apron your discretion.
+.to When Airborne Contact $1 on $2,Wind $3 at $4, Cleared for Take Off Runway $5
+
+.land Runway $1. Altimeter $2, Wind is $3 at $4, Cleared to Land Runway $1
+.sc Set your squawk to C mode, please.
+
+.ctr Contact Moncton Center on 132.20. Bye.
+.app Contact Halifax Terminal on 119.20. Bye.
+.twr Contact Moncton Tower on 118.40. Bye.
+.gnd Welcome to Halifax. Contact ground on 121.90. Bye.
+
+.unicom You are leaving my airspace and no further ATC available. Resume own navigation, change freq to UNICOM. Have a good flight and landing. Bye.
+
+; VFR Traffic
+.vfrapprove Circuit Approved, ATIS $1 is current, Call me when ready for Taxi. 
+.taxivfr Wind $1 at $2, Altimeter $3, Runway $4, Taxi Via $5, Hold Short Runway $6
+.circuitleft, Left Hand Circuits, Call me Downwind, Not Above 3000, Wind $1, Cleared for Take Off Runway $2
+.circuitright, Right Hand Circuits, Call me Downwind, Not Above 3000, Wind $1, Cleared for Take Off Runway $2
+
+.vfrland Winds $1, Cleared to Land Runway $2
+.vfrtouch Cleared for the Touch and Go, Runway $1
+.vfrstop Cleared for the Stop and Go, Runway $1
+.vfrlow Cleared for the Low Approach, Runway $1
+.vfroption Cleared for the Option, Runway $1
+
+.id Radar Identified upon departure, passing $1

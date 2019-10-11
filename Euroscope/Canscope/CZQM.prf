@@ -1,0 +1,74 @@
+Settings	ipaddr	\..\ipaddr.txt
+Settings	alias	\CZQM-CZQX\alias Moncton Centre.txt
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	airways	\DataFiles\airway.txt
+Settings	AtisFolder	\atis_Canada\Atis_Canada.txt
+Settings	Settingsfile	\Settings\CAATS General settings.txt
+Settings	SettingsfileSCREEN	\Settings\CAATS Screen layout.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\CAATS Symbology.txt
+Settings	SettingsfileTAGS	\Settings\CAATS TAG definations.txt
+Settings	SettingsfileSIL	\Settings\CAATS Sector inbound list configuration.txt
+Settings	SettingsfileSEL	\Settings\CAATS Sector exit list configuration.txt
+Settings	SettingsfileDEP	\Settings\CAATS Departure list configuration.txt
+Settings	SettingsfilePLUGINS	\Settings\CAATS Plug-in settings.txt
+Settings	SettingsfileARR	\Settings\CAATS Arrival list configuration.txt
+Settings	SettingsfileFP	\Settings\CAATS Flight Plan list configuration.txt
+Sounds	Sound0	D:\Program Files\EuroScope\Sounds\handoff_request.wav
+Sounds	Sound1	D:\Program Files\EuroScope\Sounds\handoff_accept.wav
+Sounds	Sound2	D:\Program Files\EuroScope\Sounds\conflict_alert.wav
+Sounds	Sound3	D:\Program Files\EuroScope\Sounds\radio_message.wav
+Sounds	Sound4	D:\Program Files\EuroScope\Sounds\private_message.wav
+Sounds	Sound5	D:\Program Files\EuroScope\Sounds\atc_message.wav
+Sounds	Sound6	D:\Program Files\EuroScope\Sounds\broadcast_message.wav
+Sounds	Sound7	D:\Program Files\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	D:\Program Files\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9	D:\Program Files\EuroScope\Sounds\connected.wav
+Sounds	Sound10	D:\Program Files\EuroScope\Sounds\disconnected.wav
+Sounds	Sound11	D:\Program Files\EuroScope\Sounds\ongoing_request.wav
+Sounds	Sound12	D:\Program Files\EuroScope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	D:\Program Files\EuroScope\Sounds\ongoing_refused.wav
+Sounds	Sound14	D:\Program Files\EuroScope\Sounds\ongoing_manual.wav
+Sounds	Sound15	D:\Program Files\EuroScope\Sounds\new_atis.wav
+Sounds	Sound16	D:\Program Files\EuroScope\Sounds\handoff_refused.wav
+Sounds	Sound17	D:\Program Files\EuroScope\Sounds\pointout.wav
+Sounds	Sound18	D:\Program Files\EuroScope\Sounds\startup.wav
+Settings	sector	\CZQM-CZQX\CZQM-CZQX_2019_07_22_v140.sct
+Settings	SettingsfilePROFILE	\CZQM-CZQX\CZQM-CZQX Login profiles.txt
+Settings	SettingsfileVOICE	\CZQM-CZQX\CZQM-CZQX liveatc.txt
+ASRFastKeys	1	\CZQM-CZQX\CTR   QM.asr 
+ASRFastKeys	2	\CZQM-CZQX\CTR   QX.asr 
+ASRFastKeys	3	\CZQM-CZQX\CTR   QN.asr 
+ASRFastKeys	4	\CZQM-CZQX\CTR   ZV.asr 
+ASRFastKeys	5	\CZQM-CZQX\APP   YQM.asr
+ASRFastKeys	6	\CZQM-CZQX\APP   YHZ.asr
+ASRFastKeys	7	\CZQM-CZQX\APP   YQX.asr
+ASRFastKeys	8	\CZQM-CZQX\APP   YYT.asr
+RecentFiles	Recent2	\CZQM-CZQX\APP   YHZ.asr
+RecentFiles	Recent3	\CZQM-CZQX\APP   YHZ-SMR.asr
+RecentFiles	Recent4	\CZQM-CZQX\CTR   QN.asr
+RecentFiles	Recent5	\CZQM-CZQX\APP   YHZ - Copy.asr
+RecentFiles	Recent6	\CZQM-CZQX\GND   CYQM.asr
+RecentFiles	Recent7	\CZQM-CZQX\APP   YYR.asr
+RecentFiles	Recent8	\CZQM-CZQX\APP   YYT.asr
+LastSession	atis_airport	cyyt
+LastSession	connecttype	0
+LastSession	facility	6
+LastSession	rating	9
+LastSession	range	600
+LastSession	server	USA-EAST
+LastSession	scenario	\Student Training Files\Euroscope Scenario\CYHZ.TXT
+LastSession	atis2	Moncton Centre - Covering CZQM and CZQX
+RecentFiles	Recent9	\CZQM-CZQX\TWR   CYQM.asr
+RecentFiles	Recent10	\CZQM-CZQX\GND   CYQX.asr
+RecentFiles	Recent11	\CZQM-CZQX\GND   CYQX.asr
+Voice	Grammar	\alias.txt
+Settings	SettingsfileCONFLICT	\Settings\CAATS General settings.txt
+Settings	SettingsfileVCCS	\Settings\CAATS General settings.txt
+LastSession	callsign	CZQM_CTR
+Plugins	Plugin0	D:\Users\Mark\Documents\EuroScope\CANscope.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+LastSession	atis3	Get Oceanic Clearance Here  CPDLC=CZQM
+Plugins	Plugin1	\Plugins\EuroNat\euroNAT.dll
+Plugins	Plugin1Display0	Standard ES radar screen
