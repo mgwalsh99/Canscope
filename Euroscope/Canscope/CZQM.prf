@@ -34,7 +34,6 @@ Sounds	Sound15	D:\Program Files\EuroScope\Sounds\new_atis.wav
 Sounds	Sound16	D:\Program Files\EuroScope\Sounds\handoff_refused.wav
 Sounds	Sound17	D:\Program Files\EuroScope\Sounds\pointout.wav
 Sounds	Sound18	D:\Program Files\EuroScope\Sounds\startup.wav
-Settings	sector	\CZQM-CZQX\CZQM-CZQX_2019_07_22_v140.sct
 Settings	SettingsfilePROFILE	\CZQM-CZQX\CZQM-CZQX Login profiles.txt
 Settings	SettingsfileVOICE	\CZQM-CZQX\CZQM-CZQX liveatc.txt
 ASRFastKeys	1	\CZQM-CZQX\CTR   QM.asr 
@@ -46,23 +45,7 @@ ASRFastKeys	6	\CZQM-CZQX\APP   YHZ.asr
 ASRFastKeys	7	\CZQM-CZQX\APP   YQX.asr
 ASRFastKeys	8	\CZQM-CZQX\APP   YYT.asr
 RecentFiles	Recent2	\CZQM-CZQX\APP   YHZ.asr
-RecentFiles	Recent3	\CZQM-CZQX\APP   YHZ-SMR.asr
-RecentFiles	Recent4	\CZQM-CZQX\CTR   QN.asr
-RecentFiles	Recent5	\CZQM-CZQX\APP   YHZ - Copy.asr
 RecentFiles	Recent6	\CZQM-CZQX\GND   CYQM.asr
-RecentFiles	Recent7	\CZQM-CZQX\APP   YYR.asr
-RecentFiles	Recent8	\CZQM-CZQX\APP   YYT.asr
-LastSession	atis_airport	cyyt
-LastSession	connecttype	0
-LastSession	facility	6
-LastSession	rating	9
-LastSession	range	600
-LastSession	server	USA-EAST
-LastSession	scenario	\Student Training Files\Euroscope Scenario\CYHZ.TXT
-LastSession	atis2	Moncton Centre - Covering CZQM and CZQX
-RecentFiles	Recent9	\CZQM-CZQX\TWR   CYQM.asr
-RecentFiles	Recent10	\CZQM-CZQX\GND   CYQX.asr
-RecentFiles	Recent11	\CZQM-CZQX\GND   CYQX.asr
 Voice	Grammar	\alias.txt
 Settings	SettingsfileCONFLICT	\Settings\CAATS General settings.txt
 Settings	SettingsfileVCCS	\Settings\CAATS General settings.txt
