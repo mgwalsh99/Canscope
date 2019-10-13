@@ -1,0 +1,27 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:CYQT:name
+Airports:CYQT:symbol
+ARTCC boundary:CZWG_CTA:
+ARTCC low boundary:CYWG_TCA_B(12.5-18):
+ARTCC low boundary:CYWG_TCA_C(2k-3k):
+ARTCC low boundary:CYWG_TCA_C(3k-4k):
+ARTCC low boundary:CYWG_TCA_C(4k-12.5k):
+Fixes:COLDD:name
+Fixes:COLDD:symbol
+NDBs:QN:name
+NDBs:QN:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:26.495745:-129.028903:58.183289:-39.780863

@@ -1,0 +1,61 @@
+VOICE
+AG:Winnipeg Centre:124.000:ignored:czwg_ctr
+AG:Winnipeg Broadview Centre:134.170:ignored:zwg_br_ctr
+AG:Winnipeg Falcon Lake Centre:132.200:ignored:zwg_fl_ctr
+AG:Winnipeg LaRonge Centre:135.620:ignored:zwg_vc_ctr
+AG:Winnipeg North Lower Centre:133.100:ignored:zwg_nl_ctr
+AG:Winnipeg Clearance:121.300:ignored:cywg_del
+AG:Winnipeg Ground:121.900:ignored:cywg_gnd
+AG:Winnipeg Tower:118.300:ignored:cywg_twr
+AG:Winnipeg Departure:119.900:ignored:cywg_dep
+AG:Winnipeg Approach:119.500:ignored:cywg_app
+AG:Thunder Bay Ground:121.900:ignored:cyqt_gnd
+AG:Thunder Bay Tower:119.900:ignored:cyqt_twr
+AG:Thunder Bay Approach:119.200:ignored:cyqt_app
+AG:Regina Ground:121.900:ignored:cyqr_gnd
+AG:Regina Tower:118.600:ignored:cyqr_twr
+AG:Regina Approach:120.100:ignored:cyqr_app
+AG:Saskatoon Ground:121.900:ignored:cyxe_gnd
+AG:Saskatoon Tower:118.300:ignored:cyxe_twr
+AG:Saskatoon Approach:119.900:ignored:cyxe_app
+AG:St. Andrews Ground:121.800:ignored:cyav_gnd
+AG:St. Andrews Tower:118.500:ignored:cyav_gnd
+AG:Edmonton Centre:132.850:ignored:czeg_ctr
+AG:Edmonton Banff Sector:133.300:ignored:zeg_ba_ctr
+AG:Edmonton Klondike Sector:134.300:ignored:zeg_kl_ctr
+AG:Edmonton Rocky Mountain Sector:134.950:ignored:zeg_rm_ctr
+AG:Edmonton Arctic Centre:125.050:ignored:zeg_a_ctr
+AG:Edmonton Radio:126.700:ignored:czeg_fss
+AG:Edmonton Mandatory:122.200:ignored:czeg_fss
+AG:Calgary Approach:125.900:ignored:cyyc_app
+AG:Calgary Departure:119.800:ignored:cyyc_dep
+AG:Calgary Tower:118.400:Yignored:cyyc_twr
+AG:Edmonton Approach:120.500:ignored:cyeg_app
+AG:Edmonton Departure:119.800:ignored:cyeg_dep
+AG:Edmonton Tower:118.300:ignored:cyeg_twr
+AG:Cold lake Departure:124.500:ignored:cyod_dep
+AG:Cold Lake Tower:126.000:ignored:cyod_twrp
+AG:Salt Lake North Centre:128.050:ignored:zlc_n_ctr
+AG:Salt Lake South Centre:133.600:ignored:zlc_s_ctr
+AG:Salt Lake Events Centre:128.550:ignored:zlc_e_ctr
+AG:Salt Lake Events2 Centre:127.750:ignored:zlc_e2_ctr
+AG:Minneapolis 10 Centre:133.400:ignored:msp_10_ctr
+AG:Minneapolis 11 Centre:133.400:ignored:msp_11_ctr
+AG:Toronto Centre:125.770:ignored:tor_ctr
+AG:Toronto East Centre:134.570:ignored:tor_ctr
+AG:Toronto West Centre:125.770:ignored:tor_ctr
+AG:Toronto North Centre:134.420:ignored:tor_ctr
+AG:Toronto South Centre:132.800:ignored:tor_ctr
+AG:Toronto North Approach:124.470:ignored:yyz_n_app
+AG:Toronto South Approach:132.800:ignored:yyz_s_app
+AG:Toronto North Departure:127.570:ignored:yyz_n_dep
+AG:Toronto South Departure:128.800:ignored:yyz_s_dep
+AG:Montreal High Centre:134.400:ignored:zul_h_ctr
+AG:Montreal North Centre:125.900:ignored:zul_n_ctr
+AG:Montreal West Centre:128.770:ignored:zul_w_ctr
+AG:Montreal East Centre:132.350:ignored:zul_e_ctr
+AG:Winnipeg ATIS:120.200:ignored:cywg_atis
+AG:Thunder Bay ATIS:128.800:ignored:cyqt_atis
+AG:Regina ATIS:127.000:ignored:cyqr_atis
+AG:saskatoon ATIS:128.400:ignored:cyxe_atis
+END
