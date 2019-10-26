@@ -15,25 +15,25 @@ Settings	SettingsfileDEP	\Settings\CAATS Departure list configuration.txt
 Settings	SettingsfilePLUGINS	\Settings\CAATS Plug-in settings.txt
 Settings	SettingsfileARR	\Settings\CAATS Arrival list configuration.txt
 Settings	SettingsfileFP	\Settings\CAATS Flight Plan list configuration.txt
-Sounds	Sound0	D:\Program Files\EuroScope\Sounds\handoff_request.wav
-Sounds	Sound1	D:\Program Files\EuroScope\Sounds\handoff_accept.wav
-Sounds	Sound2	D:\Program Files\EuroScope\Sounds\conflict_alert.wav
-Sounds	Sound3	D:\Program Files\EuroScope\Sounds\radio_message.wav
-Sounds	Sound4	D:\Program Files\EuroScope\Sounds\private_message.wav
-Sounds	Sound5	D:\Program Files\EuroScope\Sounds\atc_message.wav
-Sounds	Sound6	D:\Program Files\EuroScope\Sounds\broadcast_message.wav
-Sounds	Sound7	D:\Program Files\EuroScope\Sounds\landline_request.wav
-Sounds	Sound8	D:\Program Files\EuroScope\Sounds\supervisor_message.wav
-Sounds	Sound9	D:\Program Files\EuroScope\Sounds\connected.wav
-Sounds	Sound10	D:\Program Files\EuroScope\Sounds\disconnected.wav
-Sounds	Sound11	D:\Program Files\EuroScope\Sounds\ongoing_request.wav
-Sounds	Sound12	D:\Program Files\EuroScope\Sounds\ongoing_accepted.wav
-Sounds	Sound13	D:\Program Files\EuroScope\Sounds\ongoing_refused.wav
-Sounds	Sound14	D:\Program Files\EuroScope\Sounds\ongoing_manual.wav
-Sounds	Sound15	D:\Program Files\EuroScope\Sounds\new_atis.wav
-Sounds	Sound16	D:\Program Files\EuroScope\Sounds\handoff_refused.wav
-Sounds	Sound17	D:\Program Files\EuroScope\Sounds\pointout.wav
-Sounds	Sound18	D:\Program Files\EuroScope\Sounds\startup.wav
+Sounds	Sound0	C:\Program Files\EuroScope\Sounds\handoff_request.wav
+Sounds	Sound1	C:\Program Files\EuroScope\Sounds\handoff_accept.wav
+Sounds	Sound2	C:\Program Files\EuroScope\Sounds\conflict_alert.wav
+Sounds	Sound3	C:\Program Files\EuroScope\Sounds\radio_message.wav
+Sounds	Sound4	C:\Program Files\EuroScope\Sounds\private_message.wav
+Sounds	Sound5	C:\Program Files\EuroScope\Sounds\atc_message.wav
+Sounds	Sound6	C:\Program Files\EuroScope\Sounds\broadcast_message.wav
+Sounds	Sound7	C:\Program Files\EuroScope\Sounds\landline_request.wav
+Sounds	Sound8	C:\Program Files\EuroScope\Sounds\supervisor_message.wav
+Sounds	Sound9 C:\Program Files\EuroScope\Sounds\connected.wav
+Sounds	Sound10	C:\Program Files\EuroScope\Sounds\disconnected.wav
+Sounds	Sound11	C:\Program Files\EuroScope\Sounds\ongoing_request.wav
+Sounds	Sound12	C:\Program Files\EuroScope\Sounds\ongoing_accepted.wav
+Sounds	Sound13	C:\Program Files\EuroScope\Sounds\ongoing_refused.wav
+Sounds	Sound14	C:\Program Files\EuroScope\Sounds\ongoing_manual.wav
+Sounds	Sound15	C:\Program Files\EuroScope\Sounds\new_atis.wav
+Sounds	Sound16	C:\Program Files\EuroScope\Sounds\handoff_refused.wav
+Sounds	Sound17	C:\Program Files\EuroScope\Sounds\pointout.wav
+Sounds	Sound18	C:\Program Files\EuroScope\Sounds\startup.wav
 Settings	SettingsfilePROFILE	\CZQM-CZQX\CZQM-CZQX Login profiles.txt
 Settings	SettingsfileVOICE	\CZQM-CZQX\CZQM-CZQX liveatc.txt
 ASRFastKeys	1	\CZQM-CZQX\CTR   QM.asr 
@@ -52,6 +52,5 @@ Settings	SettingsfileVCCS	\Settings\CAATS General settings.txt
 LastSession	callsign	CZQM_CTR
 Plugins	Plugin0	D:\Users\Mark\Documents\EuroScope\CANscope.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-LastSession	atis3	Get Oceanic Clearance Here  CPDLC=CZQM
 Plugins	Plugin1	\Plugins\EuroNat\euroNAT.dll
 Plugins	Plugin1Display0	Standard ES radar screen
