@@ -23,7 +23,7 @@ PROFILE:CYHZ_APP:150:5
 ATIS2:Halifax Terminal - Covering CYHZ and CYAW
 ATIS3:FL230 and below - Atis on 121.00
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYHZ_TWR:80:4
+PROFILE:CYHZ_TWR:50:4
 ATIS2:Halifax Tower 
 ATIS3:Atis on 121.000
 ATIS4:Charts and Info - www.czqm.ca
@@ -39,7 +39,7 @@ PROFILE:CYQM_APP:150:5
 ATIS2:Moncton Center - Covering CYQM, CYYG and CYFC
 ATIS3:FL280 and below
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYQM_TWR:80:4
+PROFILE:CYQM_TWR:50:4
 ATIS2:Moncton Tower 
 ATIS3:Atis on 128.65
 ATIS4:Charts and Info - www.czqm.ca
@@ -47,7 +47,7 @@ PROFILE:CYQM_GND:20:3
 ATIS2:Moncton Ground
 ATIS3:Atis on 128.650
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYFC_TWR:80:4
+PROFILE:CYFC_TWR:50:4
 ATIS2:Fredericton Tower
 ATIS3:Atis on 127.550
 ATIS4:Charts and Info - www.czqm.ca
@@ -59,7 +59,7 @@ PROFILE:CYYT_APP:150:5
 ATIS2:Gander Center - Covering CYYT
 ATIS3:FL280 and below
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYYT_TWR:80:4
+PROFILE:CYYT_TWR:50:4
 ATIS2:St Johns Tower
 ATIS3:Atis on 128.000
 ATIS4:Charts and Info - www.czqm.ca
@@ -71,7 +71,7 @@ PROFILE:CYYR_APP:150:5
 ATIS2:Goose Bay Ratcon - Covering CYYR
 ATIS3:FL230 and below
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYYR_TWR:80:4
+PROFILE:CYYR_TWR:50:4
 ATIS2:Goose Bay Tower
 ATIS3:Atis on 128.100
 ATIS4:Charts and Info - www.czqm.ca
@@ -83,7 +83,7 @@ PROFILE:CYQX_APP:150:5
 ATIS2:Gander Center - Covering CYQX
 ATIS3:FL280 and below
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYQX_TWR:80:4
+PROFILE:CYQX_TWR:50:4
 ATIS2:Gander Tower
 ATIS3:Atis on 124.800
 ATIS4:Charts and Info - www.czqm.ca
@@ -95,7 +95,7 @@ PROFILE:CYZX_APP:150:5
 ATIS2:Greenwood Terminal
 ATIS3:Atis on 128.85 - Covering up to 9000ft
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:CYZX_TWR:80:4
+PROFILE:CYZX_TWR:50:4
 ATIS2:Atis on 128.85
 ATIS3:Greenwood Tower
 ATIS4:Charts and Info - www.czqm.ca
@@ -115,7 +115,7 @@ PROFILE:LFVP_APP:150:5
 ATIS2:Saint Pierre Approach
 ATIS3:
 ATIS4:Charts and Info - www.czqm.ca
-PROFILE:LFVP_TWR:80:4
+PROFILE:LFVP_TWR:50:4
 ATIS2:Saint Pierre Tower
 ATIS3:
 ATIS4:Charts and Info - www.czqm.ca
