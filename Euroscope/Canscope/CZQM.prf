@@ -15,25 +15,6 @@ Settings	SettingsfileDEP	\CZQM-CZQX\Settings\CAATS Departure list configuration.
 Settings	SettingsfilePLUGINS	\CZQM-CZQX\Settings\CAATS Plug-in settings.txt
 Settings	SettingsfileARR	\CZQM-CZQX\Settings\CAATS Arrival list configuration.txt
 Settings	SettingsfileFP	\CZQM-CZQX\Settings\CAATS Flight Plan list configuration.txt
-Sounds	Sound0	C:\Program Files\EuroScope\Sounds\handoff_request.wav
-Sounds	Sound1	C:\Program Files\EuroScope\Sounds\handoff_accept.wav
-Sounds	Sound2	C:\Program Files\EuroScope\Sounds\conflict_alert.wav
-Sounds	Sound3	C:\Program Files\EuroScope\Sounds\radio_message.wav
-Sounds	Sound4	C:\Program Files\EuroScope\Sounds\private_message.wav
-Sounds	Sound5	C:\Program Files\EuroScope\Sounds\atc_message.wav
-Sounds	Sound6	C:\Program Files\EuroScope\Sounds\broadcast_message.wav
-Sounds	Sound7	C:\Program Files\EuroScope\Sounds\landline_request.wav
-Sounds	Sound8	C:\Program Files\EuroScope\Sounds\supervisor_message.wav
-Sounds	Sound9 C:\Program Files\EuroScope\Sounds\connected.wav
-Sounds	Sound10	C:\Program Files\EuroScope\Sounds\disconnected.wav
-Sounds	Sound11	C:\Program Files\EuroScope\Sounds\ongoing_request.wav
-Sounds	Sound12	C:\Program Files\EuroScope\Sounds\ongoing_accepted.wav
-Sounds	Sound13	C:\Program Files\EuroScope\Sounds\ongoing_refused.wav
-Sounds	Sound14	C:\Program Files\EuroScope\Sounds\ongoing_manual.wav
-Sounds	Sound15	C:\Program Files\EuroScope\Sounds\new_atis.wav
-Sounds	Sound16	C:\Program Files\EuroScope\Sounds\handoff_refused.wav
-Sounds	Sound17	C:\Program Files\EuroScope\Sounds\pointout.wav
-Sounds	Sound18	C:\Program Files\EuroScope\Sounds\startup.wav
 Settings	SettingsfilePROFILE	\CZQM-CZQX\CZQM-CZQX Login profiles.txt
 Settings	SettingsfileVOICE	\CZQM-CZQX\CZQM-CZQX liveatc.txt
 ASRFastKeys	1	\CZQM-CZQX\CTR   QM.asr 
@@ -49,10 +30,13 @@ RecentFiles	Recent6	\CZQM-CZQX\GND   CYQM.asr
 Voice	Grammar	\alias.txt
 Settings	SettingsfileCONFLICT	\CZQM-CZQX\Settings\CAATS General settings.txt
 Settings	SettingsfileVCCS	\CZQM-CZQX\Settings\CAATS General settings.txt
-LastSession	callsign	CZQM_CTR
 Plugins	Plugin0	\Plugins\CANscope.dll
 Plugins	Plugin0Display0	Standard ES radar screen
 Plugins	Plugin1	\Plugins\EuroNat\euroNAT.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin2	\Plugins\EuroNat\AfvEuroScopeBridge.dll
+Plugins	Plugin2	\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin2Display0	Standard ES radar screen
+Plugins	Plugin3	\Plugins\RDFPlugin.dll
+Plugins	Plugin2Display0	Standard ES radar screen
+RecentFiles	Recent1	\CZQM-CZQX\GND   CYHZ.asr
+Settings	sector	\CZQM-CZQX\CZQM-CZQX_2020_04_24_v145.sct

@@ -9,8 +9,9 @@ Free Text:CYQM TAXIWAY\C:freetext
 Free Text:CYQM TAXIWAY\D:freetext
 Free Text:CYQM TAXIWAY\E:freetext
 Free Text:CYQM TAXIWAY\F:freetext
-Free Text:CYQM TAXIWAY\G:freetext
+Free Text:CYQM TAXIWAY\F:freetext
 Geo:CYQM Moncton:
+Regions:Moncton:polygon
 Runways:CYQM Moncton 06-24:centerline
 Runways:CYQM Moncton 06-24:extended centerline 1
 Runways:CYQM Moncton 06-24:extended centerline 1 left base
@@ -54,16 +55,6 @@ HISTORY_DOTS:0
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
+DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
 WINDOWAREA:46.084596:-64.753867:46.141143:-64.606029
-PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
-PLUGIN:Virtual Controller Assistant:CDSHOW:1
-PLUGIN:Virtual Controller Assistant:CDXPOS:100
-PLUGIN:Virtual Controller Assistant:CDYPOS:100
-PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
-PLUGIN:Virtual Controller Assistant:FADETRAIL:0
-PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
-PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
-PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
-PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
