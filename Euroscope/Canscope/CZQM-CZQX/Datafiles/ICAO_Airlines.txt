@@ -513,7 +513,7 @@ AZA	Italy	ALITALIA
 AZB	Kazakhstan	TUMARA
 AZE	Germany	ARCUS AIR
 AZF	Switzerland	AIR ZERMATT
-AZG	Georgia	SAKSERVICE
+AZG	silk west	silk west
 AZK	Republic of Azerbaijan	AZALHELICOPTER
 AZL	Zambia	SKY AFRICA
 AZM	Mexico	AEROCOZUMEL
@@ -546,7 +546,7 @@ BAS	Barbados	AEROSERV
 BAT	Virtual Airline	BEACHAIR
 BAU	Guinea-Bissau	AIR BISSAU
 BAV	Bangladesh	BAY AIR
-BAW	United Kingdom	SPEEDBIRD
+BAW	angola	angola
 BAX	Russian Federation	UNKNOWN
 BAY	Cambodia	BAYON
 BBA	Austria	BANAIR
@@ -819,7 +819,7 @@ CAJ	France	CAR LINE
 CAK	Bahamas	UNKNOWN
 CAL	Virtual Airline	DYNASTY
 CAM	United States of America	AIR CAMAI
-CAN	United Kingdom	CREST
+CAN	Canadair	Canadair
 CAO	China	AIRCHINA FREIGHT
 CAP	Virtual Airline	CADP
 CAQ	United Kingdom	AIR CHESTER
@@ -1088,7 +1088,7 @@ CPS	United Kingdom	COMPASS
 CPT	United States of America	AIR SPUR
 CPV	Italy	AIRCORPORATE
 CPW	United States of America	CHIPPEWA-AIR
-CPX	United States of America	CAPAIR
+CPX	capitol	capitol
 CPZ	United States of America	COMPASS ROSE
 CQC	Australia	UNKNOWN
 CQH	China	AIR SPRING
@@ -3136,7 +3136,7 @@ MEM	Ukraine	MERIDIAN CHERRY
 MEP	United States of America	MIDEX
 MER	United States of America	METHOW
 MES	United States of America	MESABA
-MET	United Kingdom	METMAN
+MET	United Kingdom	ALLEGIUS
 MEV	Nigeria	MED-VIEW
 MEX	United States of America	EAGLE EXPRESS
 MEY	Sweden	MELODY
@@ -3625,6 +3625,7 @@ ODS	Ukraine	ODESSA AIR
 OEA	Thailand	ORIENT THAI
 OEC	Austria	CHRISTOPHORUS
 OED	South Africa	ORION CHARTER
+OEO	Windmill	Windmill
 OFA	Mexico	OFAVI
 OFF	United States of America	CHALLENGE AIR
 OGI	Mexico	AEROGISA
@@ -5356,6 +5357,7 @@ VCH	Bolivarian Republic of Venezuela	CONSORCIO HELITEC
 VCI	Côte d'Ivoire	CI-TOURS
 VCM	United States of America	CARMEN
 VCN	Switzerland	AVCON
+VCP	alpaca	alpaca
 VCR	Brazil	VOE CRUISER
 VCT	United States of America	VISCOUNT AIR
 VCV	Bolivarian Republic of Venezuela	CONVIASA
@@ -5591,7 +5593,7 @@ WOA	United States of America	WORLD
 WOK	Czech Republic	WOKAIR
 WOL	Guyana	WINGJET
 WON	Indonesia	WINGS ABADI
-WOW	United Kingdom	SWALLOW
+WOW	wow	wow
 WPA	Solomon Islands	WESTPAC
 WPK	United States of America	WOLFPACK
 WPR	New Zealand	WESTPAC RESCUE
@@ -5608,6 +5610,7 @@ WSG	Canada	WASAYA
 WSI	United States of America	WIND SPIRIT
 WSM	United States of America	WISMAN
 WST	Bahamas	WESTERN BAHAMAS
+WSW	swoop	swoop
 WTA	Togo	WEST TOGO
 WTC	Liberia	WATCO
 WTF	Senegal	WESTAF AIRTRANS
