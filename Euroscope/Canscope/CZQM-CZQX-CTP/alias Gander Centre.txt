@@ -1,0 +1,59 @@
+.good Gander Centre, Recycle your Transponder and Squawk $squawk
+.good1 Radar Identified at $calt, Continue as filed. Welcome Aboard.
+
+.contactme Please Contact me on $freq.  Moncton Centre Covers Gander Centre when not online.
+
+.cm Please Contact me on $1
+.cm1 Please Contact Moncton Centre on 132.20
+.cm2 Please Contact Gander Centre on 132.10
+
+.bye You are leaving my airspace.  No further services are available.  Radar Services are Terminated.  Monitor 122.80 and have a good flight.  
+
+.clear Cleared to $arr via the $SID departure. Flight Planned Route.  Squawk $squawk
+.clear1 Cleared to $arr VIA flight planned route, climb runway heading for vectors, Maintain 5,000, Squawk $squawk
+.clearok Read back Correct, Push and Start Your Discretion, Call me when ready For Taxi, ATIS $1 is current.
+.clearok1 Read back Correct, Push and Start Your Discretion, Call me when ready For Taxi, Expect Runway $deprwy
+.clearapp You are cleared to the $arr airport, straight in $1 approach, Runway $arrrwy
+.taxirw Runway $deprwy, Altimeter $altim, Taxi Via $1, Hold Short Runway $deprwy
+.taxito Welcome to $arr, Taxi $1, Apron your discretion.
+.to Wind is true $wind, Cleared for Take Off Runway $deprwy
+
+.land Wind is true $wind, Cleared to Land Runway $arrrwy
+.ils You are cleared for the ILS approach runway $arrrwy via $2
+.rnav You are cleared for the RNAV approach runway $arrrwy via $2
+.visual You are cleared for the Visual Approach runway $arrrwy 
+.sc Set your squawk to C mode, please.
+
+.ctr Contact $radioname($1) on $freq($1). See you again.
+
+; VFR Traffic
+.vfrapprove VFR Circuits are Approved, Squawk $squawk, Call me when ready for Taxi, ATIS $1 is current.
+.taxivfr Wind True $wind, Altimeter $altim, Runway $deprwy, Taxi Via $1, Hold Short Runway $deprwy
+.circuitleft Left Hand Circuits, Call me Downwind, Not Above 3500, Wind true $wind(cyqm), Cleared for Take Off Runway $deprwy(cyqm)
+.circuitright Right Hand Circuits, Call me Downwind, Not Above 3500, Wind is true $wind(cyqm), Cleared for Take Off Runway $deprwy(cyqm)
+
+.vfrland Winds are true $wind, Cleared to Land Runway $arrrwy
+.vfrtouch Cleared for the Touch and Go, Runway $arrrwy
+.vfrstop Cleared for the Stop and Go, Runway $arrrwy
+.vfrlow Cleared for the Low Approach, Runway $arrrwy
+.vfroption Cleared for the Option, Runway $arrrwy
+
+
+;---- ARRIVAL ----
+.wel Moncton Centre, Landing Runway $arrrwy($arr), ATIS $1 is current, $arr Altimeter of $altim($arr) 
+
+.tr Turn Right, Fly Heading $1
+.tl Turn Left, Fly Heading $1
+.des Descend $1
+.cl Climb $1
+
+.oceanclear Cleared as filed along track $1 to $arr, FL$2, Mach $3 cross $4 with no time restriction
+.oceanrandom Cleared to the $arr airport via random route, $2, exiting at $3, FL$4 Mach $5, cross $6 with no time restriction.
+.oceanbye You are Leaving my airspace to the east, Oceanic is not online.  Radar Services are Terminated.  Resume own Navigation. Squawk 2000, Position Reports on 122.80.  Have a good flight!
+.ocean Crossing $1, You are leaving my airspace.  Recycle your transponder and Squawk 2000, Contact $freq($1). Have a Good Flight
+
+.info This is an information message. Moncton-CZQM and Gander-CZQX are one FIR.  When Gander is offline, Moncton covers the airspace and vice-versa.  If you are using VatSpy, please note that there has been no updates, nor support since 2010 for that software.  We recommend Vattastic.com for updated airspace information.  Please visit us at CZQM.CA for more information. Thanks for flying with us!
+
+.afk Due to the Cross the Pont Event and the heavy amount of traffic on one frequency, please do not ask/announce any AFKs. You are responsible for maintaining your presence at the controls. 
+
+.wel Radar Identified at $calt, Continue as filed. Please be advised that you will be notified when to obtain your oceanic clearance. You are responsible for maintaining radio communication at all times while transiting through Controlled Airspace. Welcome Aboard.
