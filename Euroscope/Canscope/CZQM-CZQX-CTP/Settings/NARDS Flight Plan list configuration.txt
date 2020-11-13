@@ -1,0 +1,13 @@
+FP
+m_Visible:1
+m_X:0
+m_Y:25
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:2
+m_HeaderOnly:0
+m_Column:ACID:7:0:9:0:8:1::::1812020302
+m_Column:DEP:5:1:61:1:1:1::::1812020302
+m_Column:DEST:5:1:17:7:0:1::::1812020302
+m_Column:ASSR:4:1:60:31:34:1::::1
+END

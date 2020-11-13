@@ -15,8 +15,8 @@ Settings	SettingsfileDEP	\CZQM-CZQX-CTP\Settings\CAATS Departure list configurat
 Settings	SettingsfilePLUGINS	\CZQM-CZQX-CTP\Settings\CAATS Plug-in settings.txt
 Settings	SettingsfileARR	\CZQM-CZQX-CTP\Settings\CAATS Arrival list configuration.txt
 Settings	SettingsfileFP	\CZQM-CZQX-CTP\Settings\CAATS Flight Plan list configuration.txt
-Settings	SettingsfilePROFILE	\CZQM-CZQX-CTP\CZQM-CZQX-CTP Login profiles.txt
-Settings	SettingsfileVOICE	\CZQM-CZQX-CTP\CZQM-CZQX-CTP liveatc.txt
+Settings	SettingsfilePROFILE	\CZQM-CZQX-CTP\CZQM-CZQX Login profiles.txt
+Settings	SettingsfileVOICE	\CZQM-CZQX-CTP\CZQM-CZQX liveatc.txt
 ASRFastKeys	1	\CZQM-CZQX-CTP\CTR   QM.asr 
 ASRFastKeys	2	\CZQM-CZQX-CTP\CTR   QX.asr 
 ASRFastKeys	3	\CZQM-CZQX-CTP\CTR   QN.asr 
