@@ -1,8 +1,9 @@
 Settings	ipaddr	\..\ipaddr.txt
 Settings	alias	\CZQM-CZQX\alias Moncton Centre.txt
-Settings	airlines	\DataFiles\ICAO_Airlines.txt
-Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
-Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	airlines	\CZQM-CZQX\DataFiles\ICAO_Airlines.txt
+Settings	aircraft	\CZQM-CZQX\DataFiles\ICAO_Aircraft.txt
+Settings	airports	\CZQM-CZQX\DataFiles\ICAO_Airports.txt
+Settings	airports	\CZQM-CZQX\DataFiles\ICAO_Airports.txt
 Settings	airways	\DataFiles\airway.txt
 Settings	AtisFolder	\atis_Canada\Atis_Canada.txt
 Settings	Settingsfile	\CZQM-CZQX\Settings\CAATS General settings.txt
@@ -17,26 +18,22 @@ Settings	SettingsfileARR	\CZQM-CZQX\Settings\CAATS Arrival list configuration.tx
 Settings	SettingsfileFP	\CZQM-CZQX\Settings\CAATS Flight Plan list configuration.txt
 Settings	SettingsfilePROFILE	\CZQM-CZQX\CZQM-CZQX Login profiles.txt
 Settings	SettingsfileVOICE	\CZQM-CZQX\CZQM-CZQX liveatc.txt
-ASRFastKeys	1	\CZQM-CZQX\CTR   QM.asr 
-ASRFastKeys	2	\CZQM-CZQX\CTR   QX.asr 
-ASRFastKeys	3	\CZQM-CZQX\CTR   QN.asr 
-ASRFastKeys	4	\CZQM-CZQX\CTR   ZV.asr 
-ASRFastKeys	5	\CZQM-CZQX\APP   YQM.asr
-ASRFastKeys	6	\CZQM-CZQX\APP   YHZ.asr
-ASRFastKeys	7	\CZQM-CZQX\APP   YQX.asr
-ASRFastKeys	8	\CZQM-CZQX\APP   YYT.asr
-RecentFiles	Recent2	\CZQM-CZQX\APP   YHZ.asr
-RecentFiles	Recent6	\CZQM-CZQX\GND   CYQM.asr
+ASRFastKeys	1	\CZQM-CZQX\ASR\CTR-QM.asr 
+ASRFastKeys	2	\CZQM-CZQX\ASR\CTR-QX.asr 
+ASRFastKeys	3	\CZQM-CZQX\ASR\CTR-QN.asr 
+ASRFastKeys	4	\CZQM-CZQX\ASR\CTR-ZV.asr 
+ASRFastKeys	5	\CZQM-CZQX\ASR\APP-YQM.asr
+ASRFastKeys	6	\CZQM-CZQX\ASR\APP-YHZ.asr
+ASRFastKeys	7	\CZQM-CZQX\ASR\APP-YQX.asr
+ASRFastKeys	8	\CZQM-CZQX\ASR\APP-YYT.asr
+RecentFiles	Recent1	\CZQM-CZQX\APP-YHZ.asr
 Voice	Grammar	\alias.txt
 Settings	SettingsfileCONFLICT	\CZQM-CZQX\Settings\CAATS General settings.txt
 Settings	SettingsfileVCCS	\CZQM-CZQX\Settings\CAATS General settings.txt
 Plugins	Plugin0	\Plugins\CANscope.dll
 Plugins	Plugin0Display0	Standard ES radar screen
-Plugins	Plugin1	\Plugins\EuroNat\euroNAT.dll
+Plugins	Plugin1	\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-Plugins	Plugin2	\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin2	\Plugins\RDFPlugin.dll
 Plugins	Plugin2Display0	Standard ES radar screen
-Plugins	Plugin3	\Plugins\RDFPlugin.dll
-Plugins	Plugin2Display0	Standard ES radar screen
-RecentFiles	Recent1	\CZQM-CZQX\GND   CYHZ.asr
-Settings	sector	\CZQM-CZQX\CZQM-CZQX_2020_04_24_v145.sct
+Settings	sector	\CZQM-CZQX\CZQM-CZQX_2020_12_06_v148.sct

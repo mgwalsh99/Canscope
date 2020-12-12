@@ -1,9 +1,8 @@
-
-.clear Cleared to $arr via the Moncton 3 departure. Flight Planned Route.  Squawk $squawk
-.clear1 Cleared to $arr VIA flight planned route, climb runway heading for vectors, Maintain 5,000, Squawk $squawk
+.clear Cleared to $arr via the $sid departure. Flight Planned Route.  Departing Runway $deprwy(cyhz) Squawk $squawk
+.clear1 Cleared to $arr flight planned route, climb runway heading for vectors, Maintain 5,000, Squawk $squawk
 .clearok Read back Correct, Push and Start Your Discretion, Call me when ready For Taxi, ATIS $1 is current.
 .clearok1 Read back Correct, Push and Start Your Discretion, Call me when ready For Taxi, Expect Runway $deprwy(cyqm)
-.taxirw Runway $deprwy(cypq), Altimeter $altim(cyqm), Taxi Via $1, Hold Short Runway $deprwy(cyqm)
+.taxirw Runway $deprwy(cyqm), Altimeter $altim(cyqm), Taxi Via $1, Hold Short Runway $deprwy(cyqm)
 .taxito Welcome to Moncton, Taxi $1, Apron your discretion.
 .to When Airborne Contact $radioname($1) on $freq($1), Wind is true $wind(cyqm), Cleared for Take Off Runway $deprwy(cyqm)
 
