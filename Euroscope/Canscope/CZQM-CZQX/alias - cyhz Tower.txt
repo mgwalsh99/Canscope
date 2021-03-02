@@ -27,4 +27,3 @@
 .vfrlow Cleared for the Low Approach, Runway $1
 .vfroption Cleared for the Option, Runway $1
 
-.id Radar Identified upon departure, passing $1

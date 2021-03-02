@@ -1,0 +1,2 @@
+AIRAC cycle    : 2102
+Valid (from/to): 25/FEB/2021 - 25/MAR/2021

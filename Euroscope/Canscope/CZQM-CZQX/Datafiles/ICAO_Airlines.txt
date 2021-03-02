@@ -1342,6 +1342,7 @@ DRB	Chile	DIDIER
 DRD	Spain	ALADA AIR
 DRE	United States of America	MICHIGAN
 DRK	Bhutan	ROYAL BHUTAN
+DRL United States of America    DRILLER
 DRM	United Kingdom	DARTMOOR
 DRN	Mexico	DISCOS REYNOSA
 DRO	Mexico	AERONORESTE

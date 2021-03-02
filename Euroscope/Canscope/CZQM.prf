@@ -4,7 +4,7 @@ Settings	airlines	\CZQM-CZQX\DataFiles\ICAO_Airlines.txt
 Settings	aircraft	\CZQM-CZQX\DataFiles\ICAO_Aircraft.txt
 Settings	airports	\CZQM-CZQX\DataFiles\ICAO_Airports.txt
 Settings	airports	\CZQM-CZQX\DataFiles\ICAO_Airports.txt
-Settings	airways	\DataFiles\airway.txt
+Settings	airways	\CZQM-CZQX\Datafiles\ISEC.txt
 Settings	AtisFolder	\atis_Canada\Atis_Canada.txt
 Settings	Settingsfile	\CZQM-CZQX\Settings\CAATS General settings.txt
 Settings	SettingsfileSCREEN	\CZQM-CZQX\Settings\CAATS Screen layout.txt
@@ -36,4 +36,4 @@ Plugins	Plugin1	\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\Plugins\RDFPlugin.dll
 Plugins	Plugin2Display0	Standard ES radar screen
-Settings	sector	\CZQM-CZQX\CZQM-CZQX_2020_12_06_v148.sct
+Settings	sector	\CZQM-CZQX\CZQM-CZQX_2021_03_03_v149.sct
