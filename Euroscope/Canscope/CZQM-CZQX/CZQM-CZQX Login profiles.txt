@@ -147,6 +147,10 @@ PROFILE:CZQM_7_CTR:350:6
 ATIS2:Moncton Centre - Covering FL280 and Above Only
 ATIS3:CTP Event - Covering TAFFY YRI
 ATIS4:www.czqm.ca
+PROFILE:CZQM_Z_CTR:400:6
+ATIS2:Moncton Centre - Covering FL280 and Above Only
+ATIS3:CTP Event
+ATIS4:www.czqm.ca
 PROFILE:CZQX_1_CTR:350:6
 ATIS2:Gander Centre - Covering FL280 and Above Only
 ATIS3:CTP Event - Covering OMSAT PORTI
