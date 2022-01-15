@@ -36,4 +36,4 @@ Plugins	Plugin1	\Plugins\AfvEuroScopeBridge.dll
 Plugins	Plugin1Display0	Standard ES radar screen
 Plugins	Plugin2	\Plugins\RDFPlugin.dll
 Plugins	Plugin2Display0	Standard ES radar screen
-Settings	sector	\CZQM-CZQX\CZQM-CZQX_2021_10_27_v155.sct
+Settings	sector	\CZQM-CZQX\CZQM-CZQX_2022_01_10_v156.sct
