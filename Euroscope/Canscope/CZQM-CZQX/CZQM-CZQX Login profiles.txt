@@ -17,11 +17,11 @@ ATIS3: Covering FL280 and Below Only
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYHZ_APP:150:5
 ATIS2:Halifax Terminal - Covering CYHZ and CYAW
-ATIS3:FL230 and below - Atis on 121.00
+ATIS3:FL230 and below - Atis on 121.000
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYHZ_DEP:150:5
 ATIS2:Halifax Terminal - Covering Departures Only From CYHZ and CYAW
-ATIS3:FL230 and below - Atis on 121.00
+ATIS3:FL230 and below - Atis on 121.000
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYHZ_TWR:50:4
 ATIS2:Halifax Tower 
@@ -41,7 +41,7 @@ ATIS3:FL280 and below
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYQM_TWR:50:4
 ATIS2:Moncton Tower 
-ATIS3:Atis on 128.65
+ATIS3:Atis on 128.650
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYQM_GND:20:3
 ATIS2:Moncton Ground
@@ -93,19 +93,19 @@ ATIS3:Atis on 124.800
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYZX_APP:150:5
 ATIS2:Greenwood Terminal
-ATIS3:Atis on 128.85 - Covering up to 9000ft
+ATIS3:Atis on 128.850 - Covering up to 9000ft
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYZX_TWR:50:4
-ATIS2:Atis on 128.85
+ATIS2:Atis on 128.850
 ATIS3:Greenwood Tower
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYZX_GND:20:3
 ATIS2:Greenwood Ground
-ATIS3:Atis on 128.85
+ATIS3:Atis on 128.850
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYZX_DEL:20:3
 ATIS2:Greenwood Delivery
-ATIS3:Atis on 128.85
+ATIS3:Atis on 128.850
 ATIS4:Charts and Info - www.czqm.ca
 PROFILE:CYSJ_APP:150:5
 ATIS2:Moncton Centre
