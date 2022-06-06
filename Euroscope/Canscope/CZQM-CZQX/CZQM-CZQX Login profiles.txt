@@ -75,6 +75,15 @@ PROFILE:CYYR_TWR:50:4
 ATIS2:Goose Bay Tower
 ATIS3:Atis on 128.100
 ATIS4:Charts and Info - www.czqm.ca
+PROFILE:CYYG_F_TWR:50:4
+ATIS2:Charlottetown Radio
+ATIS3:New to FSS? Visit www.czqm.ca for more information
+PROFILE:CYSJ_F_TWR:50:4
+ATIS2:Saint John Radio
+ATIS3:New to FSS? Visit www.czqm.ca for more information
+PROFILE:CYDF_F_TWR:50:4
+ATIS2:Deer Lake Radio
+ATIS3:New to FSS? Visit www.czqm.ca for more information
 PROFILE:CYYR_GND:20:3
 ATIS2:Goose Bay Ground
 ATIS3:Atis on 128.100
