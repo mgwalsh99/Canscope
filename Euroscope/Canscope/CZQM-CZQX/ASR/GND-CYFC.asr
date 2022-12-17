@@ -151,131 +151,46 @@ Airports:KPNN:name
 Airports:KPNN:symbol
 Airports:KPQI:name
 Airports:KPQI:symbol
-ARTCC boundary:BIRD:
-ARTCC boundary:BOS-SPLIT:
-ARTCC boundary:BOSTON-MSS:
-ARTCC boundary:CL-TAFFY:
-ARTCC boundary:CZEG-CZQX:
-ARTCC boundary:CZQM-KZNY:
-ARTCC boundary:CZQM_FIR:
-ARTCC boundary:CZQX_CTR:
-ARTCC boundary:CZQX_OC:
-ARTCC boundary:CZUL-CZEG:
-ARTCC boundary:CZUL-CZQX:
-ARTCC boundary:CZUL-CZWG:
-ARTCC boundary:CZUL-KZBW:
-ARTCC boundary:CZUL_PON:
-ARTCC boundary:CZWG-CZEG:
-ARTCC boundary:EAST-SECTOR:
-ARTCC boundary:EGGX:
-ARTCC boundary:EGPX:
-ARTCC boundary:EGTT:
-ARTCC boundary:EISN:
-ARTCC boundary:EST:
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:KZBW_KZNY:
-ARTCC boundary:KZOB_CT:
-ARTCC boundary:LE-ZV:
-ARTCC boundary:LECM:
-ARTCC boundary:LFRR:
-ARTCC boundary:LPPC:
-ARTCC boundary:LPPO:
-ARTCC boundary:NORD:
-ARTCC boundary:NORD-YQB:
-ARTCC boundary:OUEST:
-ARTCC boundary:PO:
-ARTCC boundary:QE-QX:
-ARTCC boundary:WEST-SECTOR:
-ARTCC boundary:WK:
-ARTCC boundary:WK-ZV:
-ARTCC boundary:YBG_MTCU:
-ARTCC boundary:YUL:
-ARTCC boundary:YUY-25NM:
-ARTCC boundary:ZMPZOB:
-ARTCC boundary:ZMPZWG:
-ARTCC boundary:ZMPZYZ:
-ARTCC boundary:ZNY:
-ARTCC boundary:ZYZZOB:
-ARTCC high boundary:CZQM_280-:
-ARTCC high boundary:CZQX_180+:
-ARTCC high boundary:CZQX_CTR:
-ARTCC high boundary:MANIC:
-ARTCC high boundary:YZ-UL-GATE:
-ARTCC low boundary:CYHZ_APP:
-ARTCC low boundary:CYQM_CTR:
-ARTCC low boundary:CYQX_APP:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:CYYT_APP:
-ARTCC low boundary:CYZX_APP:
 Free Text:CYFC TAXIWAY\A:freetext
 Free Text:CYFC TAXIWAY\B:freetext
 Free Text:CYFC TAXIWAY\C:freetext
 Free Text:CYFC TAXIWAY\D:freetext
-Free Text:CYFC TAXIWAY\H:freetext
-Free Text:CYFC TAXIWAY\H:freetext
-Geo:AIRPORT LAYOUTS:
-High airways:1800:line
-High airways:1800:name
-High airways:1900:line
-High airways:1900:name
-High airways:2000:line
-High airways:2000:name
-High airways:2100:line
-High airways:2100:name
-High airways:2200:line
-High airways:2200:name
-High airways:2300:line
-High airways:2300:name
-High airways:2400:line
-High airways:2400:name
-High airways:2600:line
-High airways:2600:name
-High airways:2700:line
-High airways:2700:name
-High airways:2900:line
-High airways:2900:name
-High airways:3000:line
-High airways:3000:name
-High airways:3300:line
-High airways:3300:name
-High airways:3500:line
-High airways:3500:name
-High airways:3800:line
-High airways:3800:name
-High airways:4000:line
-High airways:4000:name
-Runways:CYAW 10-28:centerline
-Runways:CYAW 16-34:centerline
-Runways:CYDF 07-25:centerline
+Free Text:CYFC TAXIWAY\D:freetext
+Free Text:CYFC TAXIWAY\D:freetext
+Geo:CYFC Fredericton:
+Regions:Fredericton:polygon
 Runways:CYFC 09-27:centerline
+Runways:CYFC 09-27:extended centerline 1
+Runways:CYFC 09-27:extended centerline 1 left base
+Runways:CYFC 09-27:extended centerline 1 left ticks
+Runways:CYFC 09-27:extended centerline 1 left vectoring
+Runways:CYFC 09-27:extended centerline 1 right base
+Runways:CYFC 09-27:extended centerline 1 right ticks
+Runways:CYFC 09-27:extended centerline 1 right vectoring
+Runways:CYFC 09-27:extended centerline 2
+Runways:CYFC 09-27:extended centerline 2 left base
+Runways:CYFC 09-27:extended centerline 2 left ticks
+Runways:CYFC 09-27:extended centerline 2 left vectoring
+Runways:CYFC 09-27:extended centerline 2 right base
+Runways:CYFC 09-27:extended centerline 2 right ticks
+Runways:CYFC 09-27:extended centerline 2 right vectoring
+Runways:CYFC 09-27:name
 Runways:CYFC 15-33:centerline
-Runways:CYGR 08-26:centerline
-Runways:CYGR 16-34:centerline
-Runways:CYHZ 05-23:centerline
-Runways:CYHZ 14-32:centerline
-Runways:CYJT 02-20:centerline
-Runways:CYJT 09-27:centerline
-Runways:CYQI 06-24:centerline
-Runways:CYQI 15-33:centerline
-Runways:CYQM 06-24:centerline
-Runways:CYQM 11-29:centerline
-Runways:CYQX 03-21:centerline
-Runways:CYQX 13-31:centerline
-Runways:CYQY 01-19:centerline
-Runways:CYQY 07-25:centerline
-Runways:CYSJ 05-23:centerline
-Runways:CYSJ 14-32:centerline
-Runways:CYSU 06-24:centerline
-Runways:CYYG 03-21:centerline
-Runways:CYYG 10-28:centerline
-Runways:CYYR 08-26:centerline
-Runways:CYYR 16-34:centerline
-Runways:CYYT 02-20:centerline
-Runways:CYYT 11-29:centerline
-Runways:CYYT 16-34:centerline
-Runways:CYZX 08-26:centerline
-Runways:CYZX 12-30:centerline
+Runways:CYFC 15-33:extended centerline 1
+Runways:CYFC 15-33:extended centerline 1 left base
+Runways:CYFC 15-33:extended centerline 1 left ticks
+Runways:CYFC 15-33:extended centerline 1 left vectoring
+Runways:CYFC 15-33:extended centerline 1 right base
+Runways:CYFC 15-33:extended centerline 1 right ticks
+Runways:CYFC 15-33:extended centerline 1 right vectoring
+Runways:CYFC 15-33:extended centerline 2
+Runways:CYFC 15-33:extended centerline 2 left base
+Runways:CYFC 15-33:extended centerline 2 left ticks
+Runways:CYFC 15-33:extended centerline 2 left vectoring
+Runways:CYFC 15-33:extended centerline 2 right base
+Runways:CYFC 15-33:extended centerline 2 right ticks
+Runways:CYFC 15-33:extended centerline 2 right vectoring
+Runways:CYFC 15-33:name
 Stars:2.1 * MVA CYFC:
 Stars:2.2 * MVA CYHZ:
 Stars:2.3 * MVA CYQM:
@@ -284,127 +199,51 @@ Stars:2.5 * MVA CYQY:
 Stars:2.6 * MVA CYSJ:
 Stars:2.7 * MVA CYYG:
 Stars:2.8 * MVA CYYT:
-Stars:4.2 * CYR724 SFC-250:
-VORs:2F:symbol
-VORs:8U:symbol
 VORs:ACK:symbol
-VORs:ALB:symbol
-VORs:ART:symbol
 VORs:AUG:symbol
-VORs:BDA:symbol
-VORs:BDL:symbol
-VORs:BFD:symbol
 VORs:BGR:symbol
 VORs:BML:symbol
 VORs:BOS:symbol
-VORs:BTV:symbol
-VORs:BUF:symbol
 VORs:CON:symbol
-VORs:CTR:symbol
-VORs:DKK:symbol
-VORs:EEN:symbol
-VORs:ELZ:symbol
 VORs:ENE:symbol
-VORs:F9:symbol
-VORs:FKL:symbol
-VORs:GDM:symbol
-VORs:GEE:symbol
-VORs:GFL:symbol
-VORs:GGT:symbol
-VORs:GN:symbol
-VORs:HFD:symbol
-VORs:HNK:symbol
-VORs:HTO:symbol
 VORs:HUL:symbol
-VORs:ICA:symbol
-VORs:IHZ:symbol
-VORs:IK8:symbol
-VORs:ISF:symbol
-VORs:ITH:symbol
-VORs:ITZ:symbol
-VORs:IUL:symbol
-VORs:IUY:symbol
-VORs:JA:symbol
-VORs:JFK:symbol
-VORs:JHW:symbol
-VORs:LEB:symbol
 VORs:LFV:symbol
 VORs:LWM:symbol
-VORs:MAD:symbol
 VORs:MHT:symbol
-VORs:MIP:symbol
 VORs:MLT:symbol
-VORs:MPV:symbol
-VORs:MSS:symbol
-VORs:NHZ:symbol
-VORs:NQ:symbol
-VORs:PLB:symbol
 VORs:PNN:symbol
 VORs:PQI:symbol
 VORs:PSM:symbol
 VORs:PUT:symbol
 VORs:PVD:symbol
-VORs:RYK:symbol
 VORs:SEY:symbol
-VORs:SIE:symbol
-VORs:SLK:symbol
-VORs:SLT:symbol
-VORs:SP:symbol
-VORs:TDT:symbol
 VORs:UAW:symbol
-VORs:UCA:symbol
-VORs:UHU:symbol
-VORs:ULW:symbol
-VORs:UTR:symbol
-VORs:UUP:symbol
 VORs:UYR:symbol
-VORs:UYT:symbol
-VORs:UZV:symbol
 VORs:UZX:symbol
 VORs:VBS:symbol
-VORs:VIE:symbol
 VORs:VLV:symbol
-VORs:X7:symbol
 VORs:XBG:symbol
 VORs:YAY:symbol
 VORs:YBC:symbol
-VORs:YCF:symbol
 VORs:YDF:symbol
-VORs:YEE:symbol
 VORs:YFB:symbol
 VORs:YFC:symbol
-VORs:YGL:symbol
 VORs:YGP:symbol
 VORs:YHZ:symbol
-VORs:YJN:symbol
-VORs:YJT:symbol
 VORs:YKL:symbol
-VORs:YMT:symbol
-VORs:YMX:symbol
 VORs:YNA:symbol
-VORs:YOW:symbol
-VORs:YPX:symbol
 VORs:YQB:symbol
-VORs:YQI:symbol
 VORs:YQM:symbol
 VORs:YQX:symbol
 VORs:YQY:symbol
 VORs:YRI:symbol
-VORs:YSC:symbol
 VORs:YSJ:symbol
-VORs:YSO:symbol
-VORs:YTP:symbol
-VORs:YUL:symbol
-VORs:YVO:symbol
 VORs:YVP:symbol
 VORs:YWK:symbol
-VORs:YXI:symbol
-VORs:YYB:symbol
 VORs:YYG:symbol
 VORs:YYR:symbol
 VORs:YYT:symbol
 VORs:YYY:symbol
-VORs:YYZ:symbol
 VORs:YZV:symbol
 SHOWC:1
 SHOWSB:0
@@ -417,5 +256,6 @@ HISTORY_DOTS:0
 SIMULATION_MODE:4
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:NARDS
-WINDOWAREA:45.836328:-66.577005:45.905431:-66.490251
+WINDOWAREA:45.856776:-66.571840:45.885081:-66.496076

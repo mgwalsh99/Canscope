@@ -5,41 +5,20 @@ Airports:CYFC:name
 Airports:CYFC:symbol
 Fixes:FRENN:name
 Fixes:FRENN:symbol
-Fixes:MESTU:name
-Fixes:MESTU:symbol
 Fixes:RESOL:name
 Fixes:RESOL:symbol
 Free Text:CYFC TAXIWAY\A:freetext
 Free Text:CYFC TAXIWAY\B:freetext
 Free Text:CYFC TAXIWAY\C:freetext
 Free Text:CYFC TAXIWAY\D:freetext
-Free Text:CYFC TAXIWAY\H:freetext
-Free Text:CYFC TAXIWAY\H:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\B:freetext
-Free Text:CYHZ TAXIWAY\C:freetext
-Free Text:CYHZ TAXIWAY\D:freetext
-Free Text:CYHZ TAXIWAY\D:freetext
-Free Text:CYHZ TAXIWAY\E:freetext
-Free Text:CYHZ TAXIWAY\F:freetext
-Free Text:CYHZ TAXIWAY\G:freetext
-Free Text:CYHZ TAXIWAY\H:freetext
-Free Text:CYQM TAXIWAY\A:freetext
-Free Text:CYQM TAXIWAY\A:freetext
-Free Text:CYQM TAXIWAY\B:freetext
-Free Text:CYQM TAXIWAY\C:freetext
-Free Text:CYQM TAXIWAY\D:freetext
-Free Text:CYQM TAXIWAY\E:freetext
-Geo:AIRPORT LAYOUTS:
+Free Text:CYFC TAXIWAY\D:freetext
+Free Text:CYFC TAXIWAY\D:freetext
+Geo:CYFC Fredericton:
 Geo:GEO:
 NDBs:FC:frequency
 NDBs:FC:name
 NDBs:FC:symbol
-NDBs:YFC:frequency
-NDBs:YFC:name
-NDBs:YFC:symbol
+Regions:Fredericton:polygon
 Runways:CYFC 09-27:centerline
 Runways:CYFC 09-27:extended centerline 1
 Runways:CYFC 09-27:extended centerline 1 left base
@@ -72,8 +51,8 @@ Runways:CYFC 15-33:extended centerline 2 right base
 Runways:CYFC 15-33:extended centerline 2 right ticks
 Runways:CYFC 15-33:extended centerline 2 right vectoring
 Runways:CYFC 15-33:name
-Stars:1.0 * AIRPORT LAYOUTS:
 Stars:2.1 * MVA CYFC:
+Stars:4.3 * CYR724 SFC-250:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -85,5 +64,6 @@ HISTORY_DOTS:8
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:NARDS
-WINDOWAREA:45.845955:-66.577951:45.892925:-66.483044
+WINDOWAREA:45.768300:-66.819809:45.992270:-66.220299

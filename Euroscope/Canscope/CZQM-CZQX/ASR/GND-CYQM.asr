@@ -12,38 +12,6 @@ Free Text:CYQM TAXIWAY\F:freetext
 Free Text:CYQM TAXIWAY\F:freetext
 Geo:CYQM Moncton:
 Regions:Moncton:polygon
-Runways:CYQM Moncton 06-24:centerline
-Runways:CYQM Moncton 06-24:extended centerline 1
-Runways:CYQM Moncton 06-24:extended centerline 1 left base
-Runways:CYQM Moncton 06-24:extended centerline 1 left ticks
-Runways:CYQM Moncton 06-24:extended centerline 1 left vectoring
-Runways:CYQM Moncton 06-24:extended centerline 1 right base
-Runways:CYQM Moncton 06-24:extended centerline 1 right ticks
-Runways:CYQM Moncton 06-24:extended centerline 1 right vectoring
-Runways:CYQM Moncton 06-24:extended centerline 2
-Runways:CYQM Moncton 06-24:extended centerline 2 left base
-Runways:CYQM Moncton 06-24:extended centerline 2 left ticks
-Runways:CYQM Moncton 06-24:extended centerline 2 left vectoring
-Runways:CYQM Moncton 06-24:extended centerline 2 right base
-Runways:CYQM Moncton 06-24:extended centerline 2 right ticks
-Runways:CYQM Moncton 06-24:extended centerline 2 right vectoring
-Runways:CYQM Moncton 06-24:name
-Runways:CYQM Moncton 11-29:centerline
-Runways:CYQM Moncton 11-29:extended centerline 1
-Runways:CYQM Moncton 11-29:extended centerline 1 left base
-Runways:CYQM Moncton 11-29:extended centerline 1 left ticks
-Runways:CYQM Moncton 11-29:extended centerline 1 left vectoring
-Runways:CYQM Moncton 11-29:extended centerline 1 right base
-Runways:CYQM Moncton 11-29:extended centerline 1 right ticks
-Runways:CYQM Moncton 11-29:extended centerline 1 right vectoring
-Runways:CYQM Moncton 11-29:extended centerline 2
-Runways:CYQM Moncton 11-29:extended centerline 2 left base
-Runways:CYQM Moncton 11-29:extended centerline 2 left ticks
-Runways:CYQM Moncton 11-29:extended centerline 2 left vectoring
-Runways:CYQM Moncton 11-29:extended centerline 2 right base
-Runways:CYQM Moncton 11-29:extended centerline 2 right ticks
-Runways:CYQM Moncton 11-29:extended centerline 2 right vectoring
-Runways:CYQM Moncton 11-29:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -57,4 +25,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:46.084596:-64.753867:46.141143:-64.606029
+WINDOWAREA:46.091888:-64.738778:46.137126:-64.617689

@@ -160,72 +160,15 @@ Airports:KPQI:symbol
 Airports:LFVP:name
 Airports:LFVP:symbol
 ARTCC boundary:BIRD:
-ARTCC boundary:BOS-SPLIT:
-ARTCC boundary:BOSTON-MSS:
-ARTCC boundary:CL-TAFFY:
-ARTCC boundary:CZEG-CZQX:
-ARTCC boundary:CZQM-KZNY:
-ARTCC boundary:CZQM_FIR:
 ARTCC boundary:CZQX_CTR:
 ARTCC boundary:CZQX_OC:
-ARTCC boundary:CZUL-CZEG:
-ARTCC boundary:CZUL-CZQX:
-ARTCC boundary:CZUL-CZWG:
-ARTCC boundary:CZUL-KZBW:
-ARTCC boundary:CZUL_PON:
-ARTCC boundary:CZWG-CZEG:
-ARTCC boundary:EAST-SECTOR:
-ARTCC boundary:EGGX:
-ARTCC boundary:EGPX:
-ARTCC boundary:EGTT:
-ARTCC boundary:EISN:
-ARTCC boundary:EST:
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:KZBW_KZNY:
-ARTCC boundary:KZOB_CT:
-ARTCC boundary:LE-ZV:
-ARTCC boundary:LECM:
-ARTCC boundary:LFRR:
-ARTCC boundary:LPPC:
-ARTCC boundary:LPPO:
-ARTCC boundary:NORD:
-ARTCC boundary:NORD-YQB:
-ARTCC boundary:OUEST:
-ARTCC boundary:PO:
-ARTCC boundary:QE-QX:
-ARTCC boundary:WEST-SECTOR:
-ARTCC boundary:WK:
-ARTCC boundary:WK-ZV:
-ARTCC boundary:YBG_MTCU:
-ARTCC boundary:YUL:
-ARTCC boundary:YUY-25NM:
-ARTCC boundary:ZMPZOB:
-ARTCC boundary:ZMPZWG:
-ARTCC boundary:ZMPZYZ:
-ARTCC boundary:ZNY:
-ARTCC boundary:ZYZZOB:
-ARTCC high boundary:CZQM_280-:
-ARTCC high boundary:CZQX_180+:
-ARTCC high boundary:CZQX_CTR:
-ARTCC high boundary:MANIC:
-ARTCC high boundary:YZ-UL-GATE:
 ARTCC low boundary:CYHZ_APP:
-ARTCC low boundary:CYQM_CTR:
 ARTCC low boundary:CYQX_APP:
 ARTCC low boundary:CYYR_APP:
 ARTCC low boundary:CYYT_APP:
 ARTCC low boundary:CYZX_APP:
-Fixes:APRAS:name
-Fixes:APRAS:symbol
-Fixes:BIPNO:name
-Fixes:BIPNO:symbol
 Fixes:BODGO:name
 Fixes:BODGO:symbol
-Fixes:DESRI:name
-Fixes:DESRI:symbol
-Fixes:YBC:name
-Fixes:YBC:symbol
 Free Text:CYYR TAXIWAY\A:freetext
 Free Text:CYYR TAXIWAY\A1:freetext
 Free Text:CYYR TAXIWAY\B:freetext
@@ -235,175 +178,49 @@ Free Text:CYYR TAXIWAY\E:freetext
 Free Text:CYYR TAXIWAY\F:freetext
 Free Text:CYYR TAXIWAY\G:freetext
 Free Text:CYYR TAXIWAY\H:freetext
+Free Text:CYYR TAXIWAY\J:freetext
+Free Text:CYYR TAXIWAY\K:freetext
 Free Text:CYYR TAXIWAY\M:freetext
 Free Text:CYYR TAXIWAY\N:freetext
 Free Text:CYYR TAXIWAY\P:freetext
 Free Text:CYYR TAXIWAY\P:freetext
 Free Text:CYYR TAXIWAY\Q:freetext
+Free Text:CYYR TAXIWAY\Q:freetext
 Geo:CYYR Goose Bay:
 Geo:GEO:
-NDBs:ZJT:name
-NDBs:ZJT:symbol
-Runways:CYDF Deer Lake 07-25:centerline
-Runways:CYDF Deer Lake 07-25:extended centerline 1
-Runways:CYDF Deer Lake 07-25:extended centerline 1 left base
-Runways:CYDF Deer Lake 07-25:extended centerline 1 left ticks
-Runways:CYDF Deer Lake 07-25:extended centerline 1 left vectoring
-Runways:CYDF Deer Lake 07-25:extended centerline 1 right base
-Runways:CYDF Deer Lake 07-25:extended centerline 1 right ticks
-Runways:CYDF Deer Lake 07-25:extended centerline 1 right vectoring
-Runways:CYDF Deer Lake 07-25:extended centerline 2
-Runways:CYDF Deer Lake 07-25:extended centerline 2 left base
-Runways:CYDF Deer Lake 07-25:extended centerline 2 left ticks
-Runways:CYDF Deer Lake 07-25:extended centerline 2 left vectoring
-Runways:CYDF Deer Lake 07-25:extended centerline 2 right base
-Runways:CYDF Deer Lake 07-25:extended centerline 2 right ticks
-Runways:CYDF Deer Lake 07-25:extended centerline 2 right vectoring
-Runways:CYDF Deer Lake 07-25:name
-Runways:CYJT Stephenville 02-20:centerline
-Runways:CYJT Stephenville 02-20:extended centerline 1
-Runways:CYJT Stephenville 02-20:extended centerline 1 left base
-Runways:CYJT Stephenville 02-20:extended centerline 1 left ticks
-Runways:CYJT Stephenville 02-20:extended centerline 1 left vectoring
-Runways:CYJT Stephenville 02-20:extended centerline 1 right base
-Runways:CYJT Stephenville 02-20:extended centerline 1 right ticks
-Runways:CYJT Stephenville 02-20:extended centerline 1 right vectoring
-Runways:CYJT Stephenville 02-20:extended centerline 2
-Runways:CYJT Stephenville 02-20:extended centerline 2 left base
-Runways:CYJT Stephenville 02-20:extended centerline 2 left ticks
-Runways:CYJT Stephenville 02-20:extended centerline 2 left vectoring
-Runways:CYJT Stephenville 02-20:extended centerline 2 right base
-Runways:CYJT Stephenville 02-20:extended centerline 2 right ticks
-Runways:CYJT Stephenville 02-20:extended centerline 2 right vectoring
-Runways:CYJT Stephenville 02-20:name
-Runways:CYJT Stephenville 09-27:centerline
-Runways:CYJT Stephenville 09-27:extended centerline 1
-Runways:CYJT Stephenville 09-27:extended centerline 1 left base
-Runways:CYJT Stephenville 09-27:extended centerline 1 left ticks
-Runways:CYJT Stephenville 09-27:extended centerline 1 left vectoring
-Runways:CYJT Stephenville 09-27:extended centerline 1 right base
-Runways:CYJT Stephenville 09-27:extended centerline 1 right ticks
-Runways:CYJT Stephenville 09-27:extended centerline 1 right vectoring
-Runways:CYJT Stephenville 09-27:extended centerline 2
-Runways:CYJT Stephenville 09-27:extended centerline 2 left base
-Runways:CYJT Stephenville 09-27:extended centerline 2 left ticks
-Runways:CYJT Stephenville 09-27:extended centerline 2 left vectoring
-Runways:CYJT Stephenville 09-27:extended centerline 2 right base
-Runways:CYJT Stephenville 09-27:extended centerline 2 right ticks
-Runways:CYJT Stephenville 09-27:extended centerline 2 right vectoring
-Runways:CYJT Stephenville 09-27:name
-Runways:CYQX Gander 03-21:centerline
-Runways:CYQX Gander 03-21:extended centerline 1
-Runways:CYQX Gander 03-21:extended centerline 1 left base
-Runways:CYQX Gander 03-21:extended centerline 1 left ticks
-Runways:CYQX Gander 03-21:extended centerline 1 left vectoring
-Runways:CYQX Gander 03-21:extended centerline 1 right base
-Runways:CYQX Gander 03-21:extended centerline 1 right ticks
-Runways:CYQX Gander 03-21:extended centerline 1 right vectoring
-Runways:CYQX Gander 03-21:extended centerline 2
-Runways:CYQX Gander 03-21:extended centerline 2 left base
-Runways:CYQX Gander 03-21:extended centerline 2 left ticks
-Runways:CYQX Gander 03-21:extended centerline 2 left vectoring
-Runways:CYQX Gander 03-21:extended centerline 2 right base
-Runways:CYQX Gander 03-21:extended centerline 2 right ticks
-Runways:CYQX Gander 03-21:extended centerline 2 right vectoring
-Runways:CYQX Gander 03-21:name
-Runways:CYQX Gander 13-31:centerline
-Runways:CYQX Gander 13-31:extended centerline 1
-Runways:CYQX Gander 13-31:extended centerline 1 left base
-Runways:CYQX Gander 13-31:extended centerline 1 left ticks
-Runways:CYQX Gander 13-31:extended centerline 1 left vectoring
-Runways:CYQX Gander 13-31:extended centerline 1 right base
-Runways:CYQX Gander 13-31:extended centerline 1 right ticks
-Runways:CYQX Gander 13-31:extended centerline 1 right vectoring
-Runways:CYQX Gander 13-31:extended centerline 2
-Runways:CYQX Gander 13-31:extended centerline 2 left base
-Runways:CYQX Gander 13-31:extended centerline 2 left ticks
-Runways:CYQX Gander 13-31:extended centerline 2 left vectoring
-Runways:CYQX Gander 13-31:extended centerline 2 right base
-Runways:CYQX Gander 13-31:extended centerline 2 right ticks
-Runways:CYQX Gander 13-31:extended centerline 2 right vectoring
-Runways:CYQX Gander 13-31:name
-Runways:CYYR Goose Bay 08-26:centerline
-Runways:CYYR Goose Bay 08-26:extended centerline 1
-Runways:CYYR Goose Bay 08-26:extended centerline 1 left base
-Runways:CYYR Goose Bay 08-26:extended centerline 1 left ticks
-Runways:CYYR Goose Bay 08-26:extended centerline 1 left vectoring
-Runways:CYYR Goose Bay 08-26:extended centerline 1 right base
-Runways:CYYR Goose Bay 08-26:extended centerline 1 right ticks
-Runways:CYYR Goose Bay 08-26:extended centerline 1 right vectoring
-Runways:CYYR Goose Bay 08-26:extended centerline 2
-Runways:CYYR Goose Bay 08-26:extended centerline 2 left base
-Runways:CYYR Goose Bay 08-26:extended centerline 2 left ticks
-Runways:CYYR Goose Bay 08-26:extended centerline 2 left vectoring
-Runways:CYYR Goose Bay 08-26:extended centerline 2 right base
-Runways:CYYR Goose Bay 08-26:extended centerline 2 right ticks
-Runways:CYYR Goose Bay 08-26:extended centerline 2 right vectoring
-Runways:CYYR Goose Bay 08-26:name
-Runways:CYYR Goose Bay 16-34:centerline
-Runways:CYYR Goose Bay 16-34:extended centerline 1
-Runways:CYYR Goose Bay 16-34:extended centerline 1 left base
-Runways:CYYR Goose Bay 16-34:extended centerline 1 left ticks
-Runways:CYYR Goose Bay 16-34:extended centerline 1 left vectoring
-Runways:CYYR Goose Bay 16-34:extended centerline 1 right base
-Runways:CYYR Goose Bay 16-34:extended centerline 1 right ticks
-Runways:CYYR Goose Bay 16-34:extended centerline 1 right vectoring
-Runways:CYYR Goose Bay 16-34:extended centerline 2
-Runways:CYYR Goose Bay 16-34:extended centerline 2 left base
-Runways:CYYR Goose Bay 16-34:extended centerline 2 left ticks
-Runways:CYYR Goose Bay 16-34:extended centerline 2 left vectoring
-Runways:CYYR Goose Bay 16-34:extended centerline 2 right base
-Runways:CYYR Goose Bay 16-34:extended centerline 2 right ticks
-Runways:CYYR Goose Bay 16-34:extended centerline 2 right vectoring
-Runways:CYYR Goose Bay 16-34:name
-Runways:CYYT St Johns 02-20:centerline
-Runways:CYYT St Johns 02-20:extended centerline 1
-Runways:CYYT St Johns 02-20:extended centerline 1 left base
-Runways:CYYT St Johns 02-20:extended centerline 1 left ticks
-Runways:CYYT St Johns 02-20:extended centerline 1 left vectoring
-Runways:CYYT St Johns 02-20:extended centerline 1 right base
-Runways:CYYT St Johns 02-20:extended centerline 1 right ticks
-Runways:CYYT St Johns 02-20:extended centerline 1 right vectoring
-Runways:CYYT St Johns 02-20:extended centerline 2
-Runways:CYYT St Johns 02-20:extended centerline 2 left base
-Runways:CYYT St Johns 02-20:extended centerline 2 left ticks
-Runways:CYYT St Johns 02-20:extended centerline 2 left vectoring
-Runways:CYYT St Johns 02-20:extended centerline 2 right base
-Runways:CYYT St Johns 02-20:extended centerline 2 right ticks
-Runways:CYYT St Johns 02-20:extended centerline 2 right vectoring
-Runways:CYYT St Johns 02-20:name
-Runways:CYYT St Johns 11-29:centerline
-Runways:CYYT St Johns 11-29:extended centerline 1
-Runways:CYYT St Johns 11-29:extended centerline 1 left base
-Runways:CYYT St Johns 11-29:extended centerline 1 left ticks
-Runways:CYYT St Johns 11-29:extended centerline 1 left vectoring
-Runways:CYYT St Johns 11-29:extended centerline 1 right base
-Runways:CYYT St Johns 11-29:extended centerline 1 right ticks
-Runways:CYYT St Johns 11-29:extended centerline 1 right vectoring
-Runways:CYYT St Johns 11-29:extended centerline 2
-Runways:CYYT St Johns 11-29:extended centerline 2 left base
-Runways:CYYT St Johns 11-29:extended centerline 2 left ticks
-Runways:CYYT St Johns 11-29:extended centerline 2 left vectoring
-Runways:CYYT St Johns 11-29:extended centerline 2 right base
-Runways:CYYT St Johns 11-29:extended centerline 2 right ticks
-Runways:CYYT St Johns 11-29:extended centerline 2 right vectoring
-Runways:CYYT St Johns 11-29:name
-Runways:CYYT St Johns 16-34:centerline
-Runways:CYYT St Johns 16-34:extended centerline 1
-Runways:CYYT St Johns 16-34:extended centerline 1 left base
-Runways:CYYT St Johns 16-34:extended centerline 1 left ticks
-Runways:CYYT St Johns 16-34:extended centerline 1 left vectoring
-Runways:CYYT St Johns 16-34:extended centerline 1 right base
-Runways:CYYT St Johns 16-34:extended centerline 1 right ticks
-Runways:CYYT St Johns 16-34:extended centerline 1 right vectoring
-Runways:CYYT St Johns 16-34:extended centerline 2
-Runways:CYYT St Johns 16-34:extended centerline 2 left base
-Runways:CYYT St Johns 16-34:extended centerline 2 left ticks
-Runways:CYYT St Johns 16-34:extended centerline 2 left vectoring
-Runways:CYYT St Johns 16-34:extended centerline 2 right base
-Runways:CYYT St Johns 16-34:extended centerline 2 right ticks
-Runways:CYYT St Johns 16-34:extended centerline 2 right vectoring
-Runways:CYYT St Johns 16-34:name
+Regions:Goose Bay:polygon
+Runways:CYYR 08-26:centerline
+Runways:CYYR 08-26:extended centerline 1
+Runways:CYYR 08-26:extended centerline 1 left base
+Runways:CYYR 08-26:extended centerline 1 left ticks
+Runways:CYYR 08-26:extended centerline 1 left vectoring
+Runways:CYYR 08-26:extended centerline 1 right base
+Runways:CYYR 08-26:extended centerline 1 right ticks
+Runways:CYYR 08-26:extended centerline 1 right vectoring
+Runways:CYYR 08-26:extended centerline 2
+Runways:CYYR 08-26:extended centerline 2 left base
+Runways:CYYR 08-26:extended centerline 2 left ticks
+Runways:CYYR 08-26:extended centerline 2 left vectoring
+Runways:CYYR 08-26:extended centerline 2 right base
+Runways:CYYR 08-26:extended centerline 2 right ticks
+Runways:CYYR 08-26:extended centerline 2 right vectoring
+Runways:CYYR 08-26:name
+Runways:CYYR 15-33:centerline
+Runways:CYYR 15-33:extended centerline 1
+Runways:CYYR 15-33:extended centerline 1 left base
+Runways:CYYR 15-33:extended centerline 1 left ticks
+Runways:CYYR 15-33:extended centerline 1 left vectoring
+Runways:CYYR 15-33:extended centerline 1 right base
+Runways:CYYR 15-33:extended centerline 1 right ticks
+Runways:CYYR 15-33:extended centerline 1 right vectoring
+Runways:CYYR 15-33:extended centerline 2
+Runways:CYYR 15-33:extended centerline 2 left base
+Runways:CYYR 15-33:extended centerline 2 left ticks
+Runways:CYYR 15-33:extended centerline 2 left vectoring
+Runways:CYYR 15-33:extended centerline 2 right base
+Runways:CYYR 15-33:extended centerline 2 right ticks
+Runways:CYYR 15-33:extended centerline 2 right vectoring
+Runways:CYYR 15-33:name
 Stars:2.0 _____________________:
 Stars:2.1 * MVA CYFC:
 Stars:2.2 * MVA CYHZ:
@@ -417,17 +234,7 @@ Stars:3.0 _____________________:
 Stars:3.1 * CYA731(M) SFC-50:
 Stars:3.2 * CYA732(M) 50-280:
 Stars:3.3 * CYA733(M) 50-280:
-Stars:3.4 * CYA752(M) SFC-280:
-Stars:3.5 * CYA753(S) SFC-50:
-Stars:3.6 * CYA755(M) 50-170:
 Stars:4.0 _____________________:
-Stars:4.1 * CYR722 SFC-12:
-Stars:4.2 * CYR724 SFC-250:
-Stars:4.3 * CYR725 SFC-20:
-Stars:4.4 * CYR726 SFC-30:
-Stars:4.5 * CYR727 SFC-125:
-Stars:4.6 * CYR750(M) 125-600:
-Stars:4.7 * CYR754 SFC-005:
 Stars:5.0 _____________________:
 Stars:5.1 * CYD734-738 SFC-200:
 Stars:5.2 * CYD739-746 SFC-300:
@@ -451,8 +258,9 @@ HISTORY_DOTS:8
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:46.317608:-61.849698:51.829722:-47.438748
+WINDOWAREA:51.633360:-64.597717:55.161113:-55.154839
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:100

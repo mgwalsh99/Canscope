@@ -5,56 +5,56 @@ Airports:CYHZ:name
 Airports:CYHZ:symbol
 Free Text:CYHZ TAXIWAY\A:freetext
 Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A-OLD:freetext
+Free Text:CYHZ TAXIWAY\APRON II:freetext
+Free Text:CYHZ TAXIWAY\APRON-III:freetext
 Free Text:CYHZ TAXIWAY\B:freetext
-Free Text:CYHZ TAXIWAY\B-OLD:freetext
 Free Text:CYHZ TAXIWAY\C:freetext
 Free Text:CYHZ TAXIWAY\D:freetext
-Free Text:CYHZ TAXIWAY\D:freetext
 Free Text:CYHZ TAXIWAY\E:freetext
-Free Text:CYHZ TAXIWAY\F:freetext
 Free Text:CYHZ TAXIWAY\F:freetext
 Free Text:CYHZ TAXIWAY\G:freetext
 Free Text:CYHZ TAXIWAY\H:freetext
 Free Text:CYHZ TAXIWAY\J:freetext
+Free Text:CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ TAXIWAY\L:freetext
 Free Text:CYHZ TAXIWAY\M:freetext
 Geo:CYHZ Halifax:
 Geo:GEO:
 Regions:Halifax:polygon
 Regions:Halifax Buildings:polygon
-Runways:CYHZ Halifax 05-23:centerline
-Runways:CYHZ Halifax 05-23:extended centerline 1
-Runways:CYHZ Halifax 05-23:extended centerline 1 left base
-Runways:CYHZ Halifax 05-23:extended centerline 1 left ticks
-Runways:CYHZ Halifax 05-23:extended centerline 1 left vectoring
-Runways:CYHZ Halifax 05-23:extended centerline 1 right base
-Runways:CYHZ Halifax 05-23:extended centerline 1 right ticks
-Runways:CYHZ Halifax 05-23:extended centerline 1 right vectoring
-Runways:CYHZ Halifax 05-23:extended centerline 2
-Runways:CYHZ Halifax 05-23:extended centerline 2 left base
-Runways:CYHZ Halifax 05-23:extended centerline 2 left ticks
-Runways:CYHZ Halifax 05-23:extended centerline 2 left vectoring
-Runways:CYHZ Halifax 05-23:extended centerline 2 right base
-Runways:CYHZ Halifax 05-23:extended centerline 2 right ticks
-Runways:CYHZ Halifax 05-23:extended centerline 2 right vectoring
-Runways:CYHZ Halifax 05-23:name
-Runways:CYHZ Halifax 14-32:centerline
-Runways:CYHZ Halifax 14-32:extended centerline 1
-Runways:CYHZ Halifax 14-32:extended centerline 1 left base
-Runways:CYHZ Halifax 14-32:extended centerline 1 left ticks
-Runways:CYHZ Halifax 14-32:extended centerline 1 left vectoring
-Runways:CYHZ Halifax 14-32:extended centerline 1 right base
-Runways:CYHZ Halifax 14-32:extended centerline 1 right ticks
-Runways:CYHZ Halifax 14-32:extended centerline 1 right vectoring
-Runways:CYHZ Halifax 14-32:extended centerline 2
-Runways:CYHZ Halifax 14-32:extended centerline 2 left base
-Runways:CYHZ Halifax 14-32:extended centerline 2 left ticks
-Runways:CYHZ Halifax 14-32:extended centerline 2 left vectoring
-Runways:CYHZ Halifax 14-32:extended centerline 2 right base
-Runways:CYHZ Halifax 14-32:extended centerline 2 right ticks
-Runways:CYHZ Halifax 14-32:extended centerline 2 right vectoring
-Runways:CYHZ Halifax 14-32:name
+Runways:CYHZ 05-23:centerline
+Runways:CYHZ 05-23:extended centerline 1
+Runways:CYHZ 05-23:extended centerline 1 left base
+Runways:CYHZ 05-23:extended centerline 1 left ticks
+Runways:CYHZ 05-23:extended centerline 1 left vectoring
+Runways:CYHZ 05-23:extended centerline 1 right base
+Runways:CYHZ 05-23:extended centerline 1 right ticks
+Runways:CYHZ 05-23:extended centerline 1 right vectoring
+Runways:CYHZ 05-23:extended centerline 2
+Runways:CYHZ 05-23:extended centerline 2 left base
+Runways:CYHZ 05-23:extended centerline 2 left ticks
+Runways:CYHZ 05-23:extended centerline 2 left vectoring
+Runways:CYHZ 05-23:extended centerline 2 right base
+Runways:CYHZ 05-23:extended centerline 2 right ticks
+Runways:CYHZ 05-23:extended centerline 2 right vectoring
+Runways:CYHZ 05-23:name
+Runways:CYHZ 14-32:centerline
+Runways:CYHZ 14-32:extended centerline 1
+Runways:CYHZ 14-32:extended centerline 1 left base
+Runways:CYHZ 14-32:extended centerline 1 left ticks
+Runways:CYHZ 14-32:extended centerline 1 left vectoring
+Runways:CYHZ 14-32:extended centerline 1 right base
+Runways:CYHZ 14-32:extended centerline 1 right ticks
+Runways:CYHZ 14-32:extended centerline 1 right vectoring
+Runways:CYHZ 14-32:extended centerline 2
+Runways:CYHZ 14-32:extended centerline 2 left base
+Runways:CYHZ 14-32:extended centerline 2 left ticks
+Runways:CYHZ 14-32:extended centerline 2 left vectoring
+Runways:CYHZ 14-32:extended centerline 2 right base
+Runways:CYHZ 14-32:extended centerline 2 right ticks
+Runways:CYHZ 14-32:extended centerline 2 right vectoring
+Runways:CYHZ 14-32:name
 Stars:2.2 * MVA CYHZ:
 SHOWC:1
 SHOWSB:1
@@ -69,7 +69,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:42.842532:-66.082170:46.998329:-60.864935
+WINDOWAREA:44.569225:-64.235477:45.127006:-62.742441
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:100
