@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
 Airports:CYHZ:name
 Airports:CYHZ:symbol
 Free Text:CYHZ TAXIWAY\A:freetext
