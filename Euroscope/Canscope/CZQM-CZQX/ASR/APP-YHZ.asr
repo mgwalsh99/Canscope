@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
+SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Airports:65B:name
 Airports:65B:symbol
 Airports:66B:name
@@ -198,83 +198,10 @@ Fixes:ODKAS:name
 Fixes:ODKAS:symbol
 Fixes:TUSKY:name
 Fixes:TUSKY:symbol
-Free Text:AIRSPACE\Charlo CL Class B above 12,500 AGL:freetext
-Free Text:AIRSPACE\Charlo CL Class E from 2,200 AGL:freetext
-Free Text:AIRSPACE\Charlo CL Class G below 12,500 AGL:freetext
-Free Text:AIRSPACE\Charlo CL Class G below 2,200 AGL:freetext
-Free Text:AIRSPACE\CYHZ Class D 1700 ASL MODE C:freetext
-Free Text:AIRSPACE\CYHZ Class D 2900 ASL MODE C:freetext
-Free Text:AIRSPACE\CYYG Class B 12500 to FL180:freetext
-Free Text:AIRSPACE\CYYG Class E 12,500 and Below:freetext
-Free Text:AIRSPACE\CYYG Class E 1900 to 12500:freetext
-Free Text:AIRSPACE\CYYG Class E CZ:freetext
-Free Text:AIRSPACE\CYYG Class G Below 1900:freetext
-Free Text:AIRSPACE\CYYT Class A 18,000 to FL280 - 40nm Radius:freetext
-Free Text:AIRSPACE\CYYT Class D SFC to 3500 7nm Radius:freetext
-Free Text:AIRSPACE\CYYT Class E 12,500 and Below - 15nm Radius:freetext
-Free Text:AIRSPACE\CYYT Class E 3000 to 12,500 - 25nm Radius:freetext
-Free Text:AIRSPACE\CYZX Class E 700 to < 9000:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\APRON II:freetext
-Free Text:CYHZ TAXIWAY\APRON-III:freetext
-Free Text:CYHZ TAXIWAY\B:freetext
-Free Text:CYHZ TAXIWAY\C:freetext
-Free Text:CYHZ TAXIWAY\D:freetext
-Free Text:CYHZ TAXIWAY\E:freetext
-Free Text:CYHZ TAXIWAY\F:freetext
-Free Text:CYHZ TAXIWAY\G:freetext
-Free Text:CYHZ TAXIWAY\H:freetext
-Free Text:CYHZ TAXIWAY\J:freetext
-Free Text:CYHZ TAXIWAY\K:freetext
-Free Text:CYHZ TAXIWAY\K:freetext
-Free Text:CYHZ TAXIWAY\L:freetext
-Free Text:CYHZ TAXIWAY\M:freetext
-Geo:CYAW Shearwater:
-Geo:CYFC Fredericton:
-Geo:CYHZ Halifax:
-Geo:CYQM Moncton:
-Geo:CYQX Gander:
-Geo:CYYR Goose Bay:
-Geo:CYYT St Johns NFLD:
-Geo:CYZX Greenwood:
+Geo:CYHZ Minimum Safe Altitudes:
+Geo:CYQM Minimum Safe Altitudes:
 Geo:GEO:
-Geo:LFVP Saint Pierre:
-Regions:Halifax:polygon
-Regions:Halifax Buildings:polygon
-Regions:Moncton:polygon
-Runways:CYHZ 05-23:centerline
-Runways:CYHZ 05-23:extended centerline 1
-Runways:CYHZ 05-23:extended centerline 1 left base
-Runways:CYHZ 05-23:extended centerline 1 left ticks
-Runways:CYHZ 05-23:extended centerline 1 left vectoring
-Runways:CYHZ 05-23:extended centerline 1 right base
-Runways:CYHZ 05-23:extended centerline 1 right ticks
-Runways:CYHZ 05-23:extended centerline 1 right vectoring
-Runways:CYHZ 05-23:extended centerline 2
-Runways:CYHZ 05-23:extended centerline 2 left base
-Runways:CYHZ 05-23:extended centerline 2 left ticks
-Runways:CYHZ 05-23:extended centerline 2 left vectoring
-Runways:CYHZ 05-23:extended centerline 2 right base
-Runways:CYHZ 05-23:extended centerline 2 right ticks
-Runways:CYHZ 05-23:extended centerline 2 right vectoring
-Runways:CYHZ 05-23:name
-Runways:CYHZ 14-32:centerline
-Runways:CYHZ 14-32:extended centerline 1
-Runways:CYHZ 14-32:extended centerline 1 left base
-Runways:CYHZ 14-32:extended centerline 1 left ticks
-Runways:CYHZ 14-32:extended centerline 1 left vectoring
-Runways:CYHZ 14-32:extended centerline 1 right base
-Runways:CYHZ 14-32:extended centerline 1 right ticks
-Runways:CYHZ 14-32:extended centerline 1 right vectoring
-Runways:CYHZ 14-32:extended centerline 2
-Runways:CYHZ 14-32:extended centerline 2 left base
-Runways:CYHZ 14-32:extended centerline 2 left ticks
-Runways:CYHZ 14-32:extended centerline 2 left vectoring
-Runways:CYHZ 14-32:extended centerline 2 right base
-Runways:CYHZ 14-32:extended centerline 2 right ticks
-Runways:CYHZ 14-32:extended centerline 2 right vectoring
-Runways:CYHZ 14-32:name
+Regions:CYHZ Halifax:polygon
 Stars:2.0 _____________________:
 Stars:2.1 * MVA CYFC:
 Stars:2.2 * MVA CYHZ:
@@ -290,17 +217,14 @@ Stars:3.1 * CYA731(M) SFC-50:
 Stars:3.2 * CYA732(M) 50-280:
 Stars:3.3 * CYA733(M) 50-280:
 Stars:4.0 _____________________:
+Stars:4.3 * CYR724 SFC-250:
 Stars:5.0 _____________________:
 Stars:5.1 * CYD734-738 SFC-200:
 Stars:5.2 * CYD739-746 SFC-300:
-Stars:5.3 * CYD CENTER SPLIT:
-Stars:5.4 * CYD WEST SPLIT:
-Stars:5.5 * CYD EAST SPLIT:
-Stars:5.6 * CYD NORTH SPLIT:
 VORs:YQM:name
 VORs:YQM:symbol
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
 LEADER:-1
@@ -311,8 +235,8 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
-TAGFAMILY:Matias (built in)
-WINDOWAREA:44.466349:-64.744124:45.397667:-62.251227
+TAGFAMILY:CSiT
+WINDOWAREA:43.800420:-66.389804:46.074157:-60.303602
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:25

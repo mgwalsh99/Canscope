@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
+SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Airports:65B:name
 Airports:65B:symbol
 Airports:66B:name
@@ -607,17 +607,42 @@ Fixes:WRAPT:name
 Fixes:WRAPT:symbol
 Fixes:XETAR:name
 Fixes:XETAR:symbol
-Free Text:CYQM TAXIWAY\A:freetext
-Free Text:CYQM TAXIWAY\A:freetext
-Free Text:CYQM TAXIWAY\A:freetext
-Free Text:CYQM TAXIWAY\B:freetext
-Free Text:CYQM TAXIWAY\C:freetext
-Free Text:CYQM TAXIWAY\D:freetext
-Free Text:CYQM TAXIWAY\E:freetext
-Free Text:CYQM TAXIWAY\F:freetext
-Free Text:CYQM TAXIWAY\F:freetext
-Geo:CYQM Moncton:
+Free Text:Moncton - CYQM\1:freetext
+Free Text:Moncton - CYQM\1A:freetext
+Free Text:Moncton - CYQM\1B:freetext
+Free Text:Moncton - CYQM\2:freetext
+Free Text:Moncton - CYQM\2:freetext
+Free Text:Moncton - CYQM\3:freetext
+Free Text:Moncton - CYQM\3:freetext
+Free Text:Moncton - CYQM\4:freetext
+Free Text:Moncton - CYQM\4:freetext
+Free Text:Moncton - CYQM\5:freetext
+Free Text:Moncton - CYQM\5:freetext
+Free Text:Moncton - CYQM\6A:freetext
+Free Text:Moncton - CYQM\6B:freetext
+Free Text:Moncton - CYQM\7:freetext
+Free Text:Moncton - CYQM\7A:freetext
+Free Text:Moncton - CYQM\7B:freetext
+Free Text:Moncton - CYQM\8:freetext
+Free Text:Moncton - CYQM\A:freetext
+Free Text:Moncton - CYQM\A:freetext
+Free Text:Moncton - CYQM\A:freetext
+Free Text:Moncton - CYQM\B:freetext
+Free Text:Moncton - CYQM\B:freetext
+Free Text:Moncton - CYQM\C:freetext
+Free Text:Moncton - CYQM\C:freetext
+Free Text:Moncton - CYQM\Cargo:freetext
+Free Text:Moncton - CYQM\D:freetext
+Free Text:Moncton - CYQM\E:freetext
+Free Text:Moncton - CYQM\F:freetext
+Free Text:Moncton - CYQM\FedEx:freetext
+Free Text:Moncton - CYQM\Moncton Flight College:freetext
+Free Text:Moncton - CYQM\Shell FBO:freetext
+Free Text:Moncton - CYQM\Terminal:freetext
+Free Text:Moncton - CYQM\Tower:freetext
+Free Text:Moncton - CYQM\Transport Canada:freetext
 Geo:GEO:
+Geo:Moncton:
 NDBs:1D:name
 NDBs:1D:symbol
 NDBs:1E:name
@@ -700,7 +725,7 @@ NDBs:YR:name
 NDBs:YR:symbol
 NDBs:YZX:name
 NDBs:YZX:symbol
-Regions:Moncton:polygon
+Regions:CYQM Moncton:polygon
 Runways:CYQM 06-24:centerline
 Runways:CYQM 06-24:extended centerline 1
 Runways:CYQM 06-24:extended centerline 1 left base
@@ -800,4 +825,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:46.074173:-64.783198:46.154088:-64.569284
+WINDOWAREA:46.097403:-64.717397:46.130137:-64.629778

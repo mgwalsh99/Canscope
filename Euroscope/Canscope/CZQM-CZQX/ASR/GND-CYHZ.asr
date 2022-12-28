@@ -1,29 +1,114 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
+SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Airports:CYHZ:name
 Airports:CYHZ:symbol
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\A:freetext
-Free Text:CYHZ TAXIWAY\APRON II:freetext
-Free Text:CYHZ TAXIWAY\APRON-III:freetext
-Free Text:CYHZ TAXIWAY\B:freetext
-Free Text:CYHZ TAXIWAY\C:freetext
-Free Text:CYHZ TAXIWAY\D:freetext
-Free Text:CYHZ TAXIWAY\E:freetext
-Free Text:CYHZ TAXIWAY\F:freetext
-Free Text:CYHZ TAXIWAY\G:freetext
-Free Text:CYHZ TAXIWAY\H:freetext
-Free Text:CYHZ TAXIWAY\J:freetext
-Free Text:CYHZ TAXIWAY\K:freetext
-Free Text:CYHZ TAXIWAY\K:freetext
-Free Text:CYHZ TAXIWAY\L:freetext
-Free Text:CYHZ TAXIWAY\M:freetext
-Geo:CYHZ Halifax:
+Free Text:Halifax - CYHZ\1:freetext
+Free Text:Halifax - CYHZ\12:freetext
+Free Text:Halifax - CYHZ\14:freetext
+Free Text:Halifax - CYHZ\15:freetext
+Free Text:Halifax - CYHZ\16:freetext
+Free Text:Halifax - CYHZ\18:freetext
+Free Text:Halifax - CYHZ\2:freetext
+Free Text:Halifax - CYHZ\20:freetext
+Free Text:Halifax - CYHZ\22:freetext
+Free Text:Halifax - CYHZ\23:freetext
+Free Text:Halifax - CYHZ\24:freetext
+Free Text:Halifax - CYHZ\26:freetext
+Free Text:Halifax - CYHZ\27:freetext
+Free Text:Halifax - CYHZ\28:freetext
+Free Text:Halifax - CYHZ\2A:freetext
+Free Text:Halifax - CYHZ\2B:freetext
+Free Text:Halifax - CYHZ\2C:freetext
+Free Text:Halifax - CYHZ\2D:freetext
+Free Text:Halifax - CYHZ\2E:freetext
+Free Text:Halifax - CYHZ\3:freetext
+Free Text:Halifax - CYHZ\3:freetext
+Free Text:Halifax - CYHZ\301:freetext
+Free Text:Halifax - CYHZ\302:freetext
+Free Text:Halifax - CYHZ\303:freetext
+Free Text:Halifax - CYHZ\304:freetext
+Free Text:Halifax - CYHZ\305:freetext
+Free Text:Halifax - CYHZ\306:freetext
+Free Text:Halifax - CYHZ\307:freetext
+Free Text:Halifax - CYHZ\308:freetext
+Free Text:Halifax - CYHZ\36:freetext
+Free Text:Halifax - CYHZ\38:freetext
+Free Text:Halifax - CYHZ\4:freetext
+Free Text:Halifax - CYHZ\42:freetext
+Free Text:Halifax - CYHZ\46:freetext
+Free Text:Halifax - CYHZ\5:freetext
+Free Text:Halifax - CYHZ\6:freetext
+Free Text:Halifax - CYHZ\7:freetext
+Free Text:Halifax - CYHZ\8:freetext
+Free Text:Halifax - CYHZ\9:freetext
+Free Text:Halifax - CYHZ\A:freetext
+Free Text:Halifax - CYHZ\A:freetext
+Free Text:Halifax - CYHZ\A:freetext
+Free Text:Halifax - CYHZ\Air Canada Cargo:freetext
+Free Text:Halifax - CYHZ\Apron 1:freetext
+Free Text:Halifax - CYHZ\Apron 2:freetext
+Free Text:Halifax - CYHZ\Apron 3:freetext
+Free Text:Halifax - CYHZ\B:freetext
+Free Text:Halifax - CYHZ\C:freetext
+Free Text:Halifax - CYHZ\Cargo Complex:freetext
+Free Text:Halifax - CYHZ\Cougar Helis:freetext
+Free Text:Halifax - CYHZ\D:freetext
+Free Text:Halifax - CYHZ\E:freetext
+Free Text:Halifax - CYHZ\F:freetext
+Free Text:Halifax - CYHZ\G:freetext
+Free Text:Halifax - CYHZ\Gateway FBO:freetext
+Free Text:Halifax - CYHZ\H:freetext
+Free Text:Halifax - CYHZ\Hangar 9:freetext
+Free Text:Halifax - CYHZ\IMP Hangar 1:freetext
+Free Text:Halifax - CYHZ\IMP Hangar 6/7:freetext
+Free Text:Halifax - CYHZ\J:freetext
+Free Text:Halifax - CYHZ\Jazz:freetext
+Free Text:Halifax - CYHZ\K:freetext
+Free Text:Halifax - CYHZ\K:freetext
+Free Text:Halifax - CYHZ\L:freetext
+Free Text:Halifax - CYHZ\M:freetext
+Free Text:Halifax - CYHZ\Maintenance:freetext
+Free Text:Halifax - CYHZ\PAL FBO/EHS:freetext
+Free Text:Halifax - CYHZ\Shell/Innotech FBO:freetext
+Free Text:Halifax - CYHZ\Terminal:freetext
+Free Text:Halifax - CYHZ\Tower:freetext
 Geo:GEO:
-Regions:Halifax:polygon
-Regions:Halifax Buildings:polygon
+Geo:Halifax:
+Regions:CYHZ Halifax:polygon
+Runways:CYHZ 05-23:centerline
+Runways:CYHZ 05-23:extended centerline 1
+Runways:CYHZ 05-23:extended centerline 1 left base
+Runways:CYHZ 05-23:extended centerline 1 left ticks
+Runways:CYHZ 05-23:extended centerline 1 left vectoring
+Runways:CYHZ 05-23:extended centerline 1 right base
+Runways:CYHZ 05-23:extended centerline 1 right ticks
+Runways:CYHZ 05-23:extended centerline 1 right vectoring
+Runways:CYHZ 05-23:extended centerline 2
+Runways:CYHZ 05-23:extended centerline 2 left base
+Runways:CYHZ 05-23:extended centerline 2 left ticks
+Runways:CYHZ 05-23:extended centerline 2 left vectoring
+Runways:CYHZ 05-23:extended centerline 2 right base
+Runways:CYHZ 05-23:extended centerline 2 right ticks
+Runways:CYHZ 05-23:extended centerline 2 right vectoring
+Runways:CYHZ 05-23:name
+Runways:CYHZ 14-32:centerline
+Runways:CYHZ 14-32:extended centerline 1
+Runways:CYHZ 14-32:extended centerline 1 left base
+Runways:CYHZ 14-32:extended centerline 1 left ticks
+Runways:CYHZ 14-32:extended centerline 1 left vectoring
+Runways:CYHZ 14-32:extended centerline 1 right base
+Runways:CYHZ 14-32:extended centerline 1 right ticks
+Runways:CYHZ 14-32:extended centerline 1 right vectoring
+Runways:CYHZ 14-32:extended centerline 2
+Runways:CYHZ 14-32:extended centerline 2 left base
+Runways:CYHZ 14-32:extended centerline 2 left ticks
+Runways:CYHZ 14-32:extended centerline 2 left vectoring
+Runways:CYHZ 14-32:extended centerline 2 right base
+Runways:CYHZ 14-32:extended centerline 2 right ticks
+Runways:CYHZ 14-32:extended centerline 2 right vectoring
+Runways:CYHZ 14-32:name
 SHOWC:1
 SHOWSB:1
 BELOW:0
@@ -37,4 +122,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:44.865213:-63.555303:44.897535:-63.468786
+WINDOWAREA:44.864262:-63.559075:44.896584:-63.472558

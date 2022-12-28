@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
+SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Airports:65B:name
 Airports:65B:symbol
 Airports:66B:name
@@ -170,19 +170,36 @@ ARTCC low boundary:CYQX_APP:
 ARTCC low boundary:CYYR_APP:
 ARTCC low boundary:CYYT_APP:
 ARTCC low boundary:CYZX_APP:
-Free Text:CYQX TAXIWAY\A:freetext
-Free Text:CYQX TAXIWAY\A:freetext
-Free Text:CYQX TAXIWAY\A:freetext
-Free Text:CYQX TAXIWAY\B:freetext
-Free Text:CYQX TAXIWAY\B  :freetext
-Free Text:CYQX TAXIWAY\C :freetext
-Free Text:CYQX TAXIWAY\D:freetext
-Free Text:CYQX TAXIWAY\E:freetext
-Free Text:CYQX TAXIWAY\F:freetext
-Free Text:CYQX TAXIWAY\G:freetext
-Geo:CYQX Gander:
+Free Text:Gander - CYQX\18:freetext
+Free Text:Gander - CYQX\20:freetext
+Free Text:Gander - CYQX\22:freetext
+Free Text:Gander - CYQX\24:freetext
+Free Text:Gander - CYQX\26:freetext
+Free Text:Gander - CYQX\28:freetext
+Free Text:Gander - CYQX\30:freetext
+Free Text:Gander - CYQX\32:freetext
+Free Text:Gander - CYQX\34:freetext
+Free Text:Gander - CYQX\36:freetext
+Free Text:Gander - CYQX\A:freetext
+Free Text:Gander - CYQX\A:freetext
+Free Text:Gander - CYQX\A:freetext
+Free Text:Gander - CYQX\A:freetext
+Free Text:Gander - CYQX\Apron 1:freetext
+Free Text:Gander - CYQX\Apron 2:freetext
+Free Text:Gander - CYQX\Apron 3:freetext
+Free Text:Gander - CYQX\B:freetext
+Free Text:Gander - CYQX\B:freetext
+Free Text:Gander - CYQX\C:freetext
+Free Text:Gander - CYQX\D:freetext
+Free Text:Gander - CYQX\E:freetext
+Free Text:Gander - CYQX\F:freetext
+Free Text:Gander - CYQX\G:freetext
+Free Text:Gander - CYQX\Gander Aviation:freetext
+Free Text:Gander - CYQX\Military Apron:freetext
+Free Text:Gander - CYQX\Terminal:freetext
+Geo:Gander:
 Geo:GEO:
-Regions:Gander:polygon
+Regions:CYQX Gander:polygon
 Runways:CYQX 03-21:centerline
 Runways:CYQX 03-21:extended centerline 1
 Runways:CYQX 03-21:extended centerline 1 left base
@@ -282,4 +299,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:48.913210:-54.633077:48.969117:-54.483428
+WINDOWAREA:48.910694:-54.633603:48.966602:-54.483954

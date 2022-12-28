@@ -1,25 +1,37 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_11_05_v163.sct
+SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Airports:CYFC:name
 Airports:CYFC:symbol
 Fixes:FRENN:name
 Fixes:FRENN:symbol
 Fixes:RESOL:name
 Fixes:RESOL:symbol
-Free Text:CYFC TAXIWAY\A:freetext
-Free Text:CYFC TAXIWAY\B:freetext
-Free Text:CYFC TAXIWAY\C:freetext
-Free Text:CYFC TAXIWAY\D:freetext
-Free Text:CYFC TAXIWAY\D:freetext
-Free Text:CYFC TAXIWAY\D:freetext
-Geo:CYFC Fredericton:
+Free Text:Fredericton - CYFC\1:freetext
+Free Text:Fredericton - CYFC\2:freetext
+Free Text:Fredericton - CYFC\3:freetext
+Free Text:Fredericton - CYFC\4:freetext
+Free Text:Fredericton - CYFC\5:freetext
+Free Text:Fredericton - CYFC\A:freetext
+Free Text:Fredericton - CYFC\Advanced Heli Flight:freetext
+Free Text:Fredericton - CYFC\B:freetext
+Free Text:Fredericton - CYFC\C:freetext
+Free Text:Fredericton - CYFC\Capital Airways:freetext
+Free Text:Fredericton - CYFC\D:freetext
+Free Text:Fredericton - CYFC\D:freetext
+Free Text:Fredericton - CYFC\D:freetext
+Free Text:Fredericton - CYFC\Fuel Pumps:freetext
+Free Text:Fredericton - CYFC\H:freetext
+Free Text:Fredericton - CYFC\Moncton Flight College:freetext
+Free Text:Fredericton - CYFC\Terminal:freetext
+Free Text:Fredericton - CYFC\Tower:freetext
+Geo:Fredericton:
 Geo:GEO:
 NDBs:FC:frequency
 NDBs:FC:name
 NDBs:FC:symbol
-Regions:Fredericton:polygon
+Regions:CYFC Fredericton:polygon
 Runways:CYFC 09-27:centerline
 Runways:CYFC 09-27:extended centerline 1
 Runways:CYFC 09-27:extended centerline 1 left base
@@ -53,7 +65,9 @@ Runways:CYFC 15-33:extended centerline 2 right ticks
 Runways:CYFC 15-33:extended centerline 2 right vectoring
 Runways:CYFC 15-33:name
 Stars:2.1 * MVA CYFC:
+Stars:2.6 * MVA CYSJ:
 Stars:4.3 * CYR724 SFC-250:
+Stars:4.4 * CYR725 SFC-20:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -67,4 +81,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:NARDS
-WINDOWAREA:45.768300:-66.819809:45.992270:-66.220299
+WINDOWAREA:45.854490:-66.574153:45.884551:-66.493689
