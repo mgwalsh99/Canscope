@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct
 ARTCC boundary:BIRD:
 ARTCC boundary:BOS-SPLIT:
 ARTCC boundary:BOSTON-MSS:
@@ -139,5 +138,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
-TAGFAMILY:CSiT
-WINDOWAREA:40.936485:-80.630724:54.827673:-43.447624
+TAGFAMILY:Matias (built in)

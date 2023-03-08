@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct
 Airports:65B:symbol
 Airports:66B:symbol
 Airports:CCA3:symbol
@@ -264,5 +263,4 @@ LEADER:-3
 SHOWLEADER:1
 HISTORY_DOTS:8
 SIMULATION_MODE:1
-TAGFAMILY:CSiT
-WINDOWAREA:45.423987:-69.755534:55.584399:-60.379471
+TAGFAMILY:Matias (built in)

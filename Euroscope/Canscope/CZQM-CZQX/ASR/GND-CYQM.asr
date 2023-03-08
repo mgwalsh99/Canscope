@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct2
 Free Text:Moncton - CYQM\1:freetext
 Free Text:Moncton - CYQM\1A:freetext
 Free Text:Moncton - CYQM\1B:freetext
@@ -83,4 +82,3 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:46.091888:-64.738779:46.137126:-64.617688

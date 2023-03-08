@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct
 ARTCC boundary:BIRD:
 ARTCC boundary:CZQM_CTR:
 ARTCC boundary:CZQX_CTR:
@@ -52,7 +51,6 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:CSiT
-WINDOWAREA:42.101164:-74.153201:53.047115:-44.853734
 PLUGIN:VATCANSitu:altFilterHigh:0
 PLUGIN:VATCANSitu:altFilterLow:6
 PLUGIN:VATCANSitu:DisplayTypeName:IFR

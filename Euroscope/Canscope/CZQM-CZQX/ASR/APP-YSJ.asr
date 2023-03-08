@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct
 Airports:CYFC:name
 Airports:CYFC:symbol
 Airports:CYQM:name
@@ -231,4 +230,3 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:44.488607:-69.159706:46.701663:-63.235930

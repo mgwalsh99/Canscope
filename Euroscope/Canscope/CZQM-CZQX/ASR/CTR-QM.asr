@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORTITLE:CZQM-CZQX_2022_12_27_v164.sct
 ARTCC boundary:BIRD:
 ARTCC boundary:CZQM_CTR:
 ARTCC boundary:CZQX_CTR:
@@ -29,4 +28,3 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:18.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:42.011507:-82.206729:59.637581:-35.026311
