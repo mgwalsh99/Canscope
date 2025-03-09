@@ -1,0 +1,36 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:CZQM CAPE BRETON:
+ARTCC low boundary:CZQM CHARLO:
+ARTCC low boundary:CZQM DIGBY:
+ARTCC low boundary:CZQM QM LOW:
+Fixes:NOTOP:name
+Fixes:NOTOP:symbol
+Geo:CZQM Coastline:
+VORs:YFC:name
+VORs:YFC:symbol
+VORs:YHZ:name
+VORs:YHZ:symbol
+VORs:YQM:name
+VORs:YQM:symbol
+VORs:YQY:name
+VORs:YQY:symbol
+VORs:YSJ:name
+VORs:YSJ:symbol
+VORs:YYG:name
+VORs:YYG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+

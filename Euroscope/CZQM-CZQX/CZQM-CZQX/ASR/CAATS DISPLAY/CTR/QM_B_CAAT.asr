@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC high boundary:AoR CTR KZBW Boston North East Sector:
+ARTCC high boundary:AoR CTR KZBW Boston South East Sector:
+ARTCC high boundary:CZQM CZQM-NY South Transition:
+ARTCC high boundary:CZQM QM HIGH:
+ARTCC high boundary:CZQM ZV:
+ARTCC high boundary:CZQX CZQX_CTR:
+ARTCC high boundary:CZQX GOTA_N_E:
+ARTCC high boundary:FIR border CZQM MTL_HI_ALL:
+ARTCC low boundary:CZQM CAPE BRETON:
+ARTCC low boundary:CZQM CHARLO:
+ARTCC low boundary:CZQM DIGBY:
+Geo:CZQM Coastline:
+VORs:YFC:name
+VORs:YFC:symbol
+VORs:YGR:name
+VORs:YGR:symbol
+VORs:YHZ:name
+VORs:YHZ:symbol
+VORs:YQM:name
+VORs:YQM:symbol
+VORs:YQY:name
+VORs:YQY:symbol
+VORs:YSJ:name
+VORs:YSJ:symbol
+VORs:YYG:name
+VORs:YYG:symbol
+VORs:YZX:name
+VORs:YZX:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:41.709267:-72.813094:49.656553:-51.490837
+PLUGIN:VATCANSitu:altFilterHigh:292
+PLUGIN:VATCANSitu:altFilterLow:0
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

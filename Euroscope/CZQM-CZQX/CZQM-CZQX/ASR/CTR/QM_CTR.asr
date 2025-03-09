@@ -1,0 +1,22 @@
+DisplayTypeName:
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC high boundary:CZQM QM HIGH:
+ARTCC high boundary:CZQX CZQX_CTR:
+ARTCC high boundary:CZQX GOTA_N_E:
+ARTCC high boundary:CZQX QX_LAKES_HI:
+Geo:CZQM Coastline:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+

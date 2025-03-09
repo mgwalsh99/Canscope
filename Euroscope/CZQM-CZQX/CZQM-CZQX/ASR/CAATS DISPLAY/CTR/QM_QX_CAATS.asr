@@ -1,0 +1,80 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORTITLE:
+ARTCC high boundary:AoR CTR KZBW Boston North East Sector:
+ARTCC high boundary:AoR CTR KZBW Boston South East Sector:
+ARTCC high boundary:CZQM CZQM-NY South Transition:
+ARTCC high boundary:CZQM QM HIGH:
+ARTCC high boundary:CZQM ZV:
+ARTCC high boundary:CZQX CZQX_CTR:
+ARTCC high boundary:CZQX GOTA_N_E:
+ARTCC high boundary:FIR border CZQM MTL_HI_ALL:
+Fixes:ALLRY:symbol
+Fixes:AVUTI:symbol
+Fixes:BOKTO:symbol
+Fixes:BUDAR:symbol
+Fixes:CUDDY:symbol
+Fixes:DORYY:symbol
+Fixes:ELSIR:symbol
+Fixes:ENNSO:symbol
+Fixes:HOIST:symbol
+Fixes:IBERG:symbol
+Fixes:IRLOK:symbol
+Fixes:JANJO:symbol
+Fixes:JOOPY:symbol
+Fixes:KODIK:symbol
+Fixes:LOMSI:symbol
+Fixes:MELDI:symbol
+Fixes:MUSAK:symbol
+Fixes:NEEKO:symbol
+Fixes:NICSO:symbol
+Fixes:OMSAT:symbol
+Fixes:PELTU:symbol
+Fixes:PORTI:symbol
+Fixes:RAFIN:symbol
+Fixes:RELIC:symbol
+Fixes:RIKAL:symbol
+Fixes:SAVRY:symbol
+Fixes:SAXAN:symbol
+Fixes:SUPRY:symbol
+Fixes:TOXIT:symbol
+Fixes:TUDEP:symbol
+Fixes:UMESI:symbol
+Fixes:URTAK:symbol
+Fixes:VESMI:symbol
+Geo:CZQM Coastline
+VORs:BGR:symbol
+VORs:PQI:symbol
+VORs:VLV:symbol
+VORs:YAY:symbol
+VORs:YBC:symbol
+VORs:YDF:symbol
+VORs:YFC:symbol
+VORs:YGP:symbol
+VORs:YGR:symbol
+VORs:YHZ:symbol
+VORs:YQM:symbol
+VORs:YQX:symbol
+VORs:YQY:symbol
+VORs:YRI:symbol
+VORs:YYG:symbol
+VORs:YYR:symbol
+VORs:YYT:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:41.380869:-87.761167:60.783423:-35.704876
+PLUGIN:VATCANSitu:altFilterHigh:0
+PLUGIN:VATCANSitu:altFilterLow:6
+PLUGIN:VATCANSitu:DisplayTypeName:IFR

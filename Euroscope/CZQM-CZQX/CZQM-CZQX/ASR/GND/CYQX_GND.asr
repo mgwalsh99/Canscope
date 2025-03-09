@@ -1,0 +1,31 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\B:freetext
+Free Text:CYQX CYQX TAXIWAY\B:freetext
+Free Text:CYQX CYQX TAXIWAY\C:freetext
+Free Text:CYQX CYQX TAXIWAY\D:freetext
+Free Text:CYQX CYQX TAXIWAY\E:freetext
+Free Text:CYQX CYQX TAXIWAY\F:freetext
+Free Text:CYQX CYQX TAXIWAY\G:freetext
+Geo:CYQX Groundlayout Gander Parking:
+Regions:CZQX Gander:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:55.00000
+TAGFAMILY:NARDS
+WINDOWAREA:48.922642:-54.632371:48.968799:-54.508536

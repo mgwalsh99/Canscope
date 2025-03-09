@@ -1,0 +1,30 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYYT CYYT TAXIWAY\B:freetext
+Free Text:CYYT CYYT TAXIWAY\C:freetext
+Free Text:CYYT CYYT TAXIWAY\D:freetext
+Free Text:CYYT CYYT TAXIWAY\G:freetext
+Free Text:CYYT CYYT TAXIWAY\H:freetext
+Free Text:CYYT CYYT TAXIWAY\J:freetext
+Free Text:CYYT CYYT TAXIWAY\K:freetext
+Free Text:CYYT CYYT TAXIWAY\M:freetext
+Geo:CYYT Groundlayout ST JOHNS:
+Geo:CZQM Coastline:
+Regions:CYYT St Johns:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:600
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:NARDS
+WINDOWAREA:47.603978:-52.790838:47.635581:-52.702718

@@ -1,0 +1,37 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Download\CZQQ\CZQQ-CZQM-CZQX_20230614185306-230501-0020.sct
+SECTORTITLE:
+Free Text:CYHZ CYHZ TAXIWAY\A:freetext
+Free Text:CYHZ CYHZ TAXIWAY\A:freetext
+Free Text:CYHZ CYHZ TAXIWAY\APRON II:freetext
+Free Text:CYHZ CYHZ TAXIWAY\APRON III:freetext
+Free Text:CYHZ CYHZ TAXIWAY\B:freetext
+Free Text:CYHZ CYHZ TAXIWAY\C:freetext
+Free Text:CYHZ CYHZ TAXIWAY\D:freetext
+Free Text:CYHZ CYHZ TAXIWAY\E:freetext
+Free Text:CYHZ CYHZ TAXIWAY\F:freetext
+Free Text:CYHZ CYHZ TAXIWAY\G:freetext
+Free Text:CYHZ CYHZ TAXIWAY\H:freetext
+Free Text:CYHZ CYHZ TAXIWAY\J:freetext
+Free Text:CYHZ CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ CYHZ TAXIWAY\L:freetext
+Free Text:CYHZ CYHZ TAXIWAY\M:freetext
+Geo:CYHZ Groundlayout CYHZ:
+Regions:CZQM Halifax:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:55.00000
+TAGFAMILY:NARDS
+WINDOWAREA:44.865174:-63.553891:44.897652:-63.466754

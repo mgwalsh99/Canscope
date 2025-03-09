@@ -1,0 +1,61 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:CYYR Goose Bay RaTcon:
+ARTCC low boundary:CYYR Goose Bay TWR CZ:
+Geo:CYFC Groundlayout YFC:
+Geo:CYHZ Groundlayout CYHZ:
+Geo:CYQM Groundlayout CYQM:
+Geo:CYQX Groundlayout Gander:
+Geo:CYYT Groundlayout St Johns:
+Geo:CZQM Coastline:
+Regions:CYQM Moncton:polygon
+Regions:CYYT St. Johns:polygon
+Runways:CYYR 08-26:centerline
+Runways:CYYR 08-26:extended centerline 1
+Runways:CYYR 08-26:extended centerline 1 left base
+Runways:CYYR 08-26:extended centerline 1 left ticks
+Runways:CYYR 08-26:extended centerline 1 left vectoring
+Runways:CYYR 08-26:extended centerline 1 right base
+Runways:CYYR 08-26:extended centerline 1 right ticks
+Runways:CYYR 08-26:extended centerline 1 right vectoring
+Runways:CYYR 08-26:extended centerline 2
+Runways:CYYR 08-26:extended centerline 2 left base
+Runways:CYYR 08-26:extended centerline 2 left ticks
+Runways:CYYR 08-26:extended centerline 2 left vectoring
+Runways:CYYR 08-26:extended centerline 2 right base
+Runways:CYYR 08-26:extended centerline 2 right ticks
+Runways:CYYR 08-26:extended centerline 2 right vectoring
+Runways:CYYR 15-33:centerline
+Runways:CYYR 15-33:extended centerline 1
+Runways:CYYR 15-33:extended centerline 1 left base
+Runways:CYYR 15-33:extended centerline 1 left ticks
+Runways:CYYR 15-33:extended centerline 1 left vectoring
+Runways:CYYR 15-33:extended centerline 1 right base
+Runways:CYYR 15-33:extended centerline 1 right ticks
+Runways:CYYR 15-33:extended centerline 1 right vectoring
+Runways:CYYR 15-33:extended centerline 2
+Runways:CYYR 15-33:extended centerline 2 left base
+Runways:CYYR 15-33:extended centerline 2 left ticks
+Runways:CYYR 15-33:extended centerline 2 left vectoring
+Runways:CYYR 15-33:extended centerline 2 right base
+Runways:CYYR 15-33:extended centerline 2 right ticks
+Runways:CYYR 15-33:extended centerline 2 right vectoring
+VORs:YYR:name
+VORs:YYR:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:NARDS
+WINDOWAREA:52.787491:-61.925519:53.910210:-58.913308

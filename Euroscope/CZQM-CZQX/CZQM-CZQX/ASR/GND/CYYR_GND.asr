@@ -1,0 +1,151 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:CYFC CYFC TAXIWAY\A:freetext
+Free Text:CYFC CYFC TAXIWAY\B:freetext
+Free Text:CYFC CYFC TAXIWAY\C:freetext
+Free Text:CYFC CYFC TAXIWAY\D:freetext
+Free Text:CYFC CYFC TAXIWAY\D:freetext
+Free Text:CYFC CYFC TAXIWAY\D:freetext
+Free Text:CYFC CYFC TAXIWAY\H:freetext
+Free Text:CYFC CYFC TAXIWAY\H:freetext
+Free Text:CYHZ CYHZ PARKING\10:freetext
+Free Text:CYHZ CYHZ PARKING\12:freetext
+Free Text:CYHZ CYHZ PARKING\14:freetext
+Free Text:CYHZ CYHZ PARKING\15:freetext
+Free Text:CYHZ CYHZ PARKING\16:freetext
+Free Text:CYHZ CYHZ PARKING\18:freetext
+Free Text:CYHZ CYHZ PARKING\20:freetext
+Free Text:CYHZ CYHZ PARKING\22:freetext
+Free Text:CYHZ CYHZ PARKING\23:freetext
+Free Text:CYHZ CYHZ PARKING\24:freetext
+Free Text:CYHZ CYHZ PARKING\26:freetext
+Free Text:CYHZ CYHZ PARKING\27:freetext
+Free Text:CYHZ CYHZ PARKING\28:freetext
+Free Text:CYHZ CYHZ PARKING\2A:freetext
+Free Text:CYHZ CYHZ PARKING\2C:freetext
+Free Text:CYHZ CYHZ PARKING\2D:freetext
+Free Text:CYHZ CYHZ PARKING\2E:freetext
+Free Text:CYHZ CYHZ PARKING\3:freetext
+Free Text:CYHZ CYHZ PARKING\301:freetext
+Free Text:CYHZ CYHZ PARKING\302:freetext
+Free Text:CYHZ CYHZ PARKING\303:freetext
+Free Text:CYHZ CYHZ PARKING\304:freetext
+Free Text:CYHZ CYHZ PARKING\305:freetext
+Free Text:CYHZ CYHZ PARKING\306:freetext
+Free Text:CYHZ CYHZ PARKING\307:freetext
+Free Text:CYHZ CYHZ PARKING\308:freetext
+Free Text:CYHZ CYHZ PARKING\36:freetext
+Free Text:CYHZ CYHZ PARKING\38:freetext
+Free Text:CYHZ CYHZ PARKING\4:freetext
+Free Text:CYHZ CYHZ PARKING\42:freetext
+Free Text:CYHZ CYHZ PARKING\46:freetext
+Free Text:CYHZ CYHZ PARKING\46A:freetext
+Free Text:CYHZ CYHZ PARKING\5:freetext
+Free Text:CYHZ CYHZ PARKING\57:freetext
+Free Text:CYHZ CYHZ PARKING\6:freetext
+Free Text:CYHZ CYHZ PARKING\6A:freetext
+Free Text:CYHZ CYHZ PARKING\7:freetext
+Free Text:CYHZ CYHZ PARKING\8:freetext
+Free Text:CYHZ CYHZ PARKING\9:freetext
+Free Text:CYHZ CYHZ TAXIWAY\A:freetext
+Free Text:CYHZ CYHZ TAXIWAY\A:freetext
+Free Text:CYHZ CYHZ TAXIWAY\APRON II:freetext
+Free Text:CYHZ CYHZ TAXIWAY\APRON III:freetext
+Free Text:CYHZ CYHZ TAXIWAY\B:freetext
+Free Text:CYHZ CYHZ TAXIWAY\C:freetext
+Free Text:CYHZ CYHZ TAXIWAY\D:freetext
+Free Text:CYHZ CYHZ TAXIWAY\E:freetext
+Free Text:CYHZ CYHZ TAXIWAY\F:freetext
+Free Text:CYHZ CYHZ TAXIWAY\G:freetext
+Free Text:CYHZ CYHZ TAXIWAY\H:freetext
+Free Text:CYHZ CYHZ TAXIWAY\J:freetext
+Free Text:CYHZ CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ CYHZ TAXIWAY\K:freetext
+Free Text:CYHZ CYHZ TAXIWAY\L:freetext
+Free Text:CYHZ CYHZ TAXIWAY\M:freetext
+Free Text:CYQM CYQM TAXIWAY\A:freetext
+Free Text:CYQM CYQM TAXIWAY\A:freetext
+Free Text:CYQM CYQM TAXIWAY\A:freetext
+Free Text:CYQM CYQM TAXIWAY\B:freetext
+Free Text:CYQM CYQM TAXIWAY\C:freetext
+Free Text:CYQM CYQM TAXIWAY\D:freetext
+Free Text:CYQM CYQM TAXIWAY\E:freetext
+Free Text:CYQM CYQM TAXIWAY\F:freetext
+Free Text:CYQM CYQM TAXIWAY\F:freetext
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\A:freetext
+Free Text:CYQX CYQX TAXIWAY\B:freetext
+Free Text:CYQX CYQX TAXIWAY\B:freetext
+Free Text:CYQX CYQX TAXIWAY\C:freetext
+Free Text:CYQX CYQX TAXIWAY\D:freetext
+Free Text:CYQX CYQX TAXIWAY\E:freetext
+Free Text:CYQX CYQX TAXIWAY\F:freetext
+Free Text:CYQX CYQX TAXIWAY\G:freetext
+Free Text:CYYR CYYR TAXIWAY\A:freetext
+Free Text:CYYR CYYR TAXIWAY\A1:freetext
+Free Text:CYYR CYYR TAXIWAY\B:freetext
+Free Text:CYYR CYYR TAXIWAY\C:freetext
+Free Text:CYYR CYYR TAXIWAY\D:freetext
+Free Text:CYYR CYYR TAXIWAY\F:freetext
+Free Text:CYYR CYYR TAXIWAY\G:freetext
+Free Text:CYYR CYYR TAXIWAY\H:freetext
+Free Text:CYYR CYYR TAXIWAY\J:freetext
+Free Text:CYYR CYYR TAXIWAY\K:freetext
+Free Text:CYYR CYYR TAXIWAY\M:freetext
+Free Text:CYYR CYYR TAXIWAY\N:freetext
+Free Text:CYYR CYYR TAXIWAY\P:freetext
+Free Text:CYYR CYYR TAXIWAY\P:freetext
+Free Text:CYYR CYYR TAXIWAY\Q:freetext
+Free Text:CYYT CYYT TAXIWAY\B:freetext
+Free Text:CYYT CYYT TAXIWAY\C:freetext
+Free Text:CYYT CYYT TAXIWAY\D:freetext
+Free Text:CYYT CYYT TAXIWAY\G:freetext
+Free Text:CYYT CYYT TAXIWAY\H:freetext
+Free Text:CYYT CYYT TAXIWAY\J:freetext
+Free Text:CYYT CYYT TAXIWAY\K:freetext
+Free Text:CYYT CYYT TAXIWAY\M:freetext
+Free Text:CYZX CYZX TAXIWAY\A:freetext
+Free Text:CYZX CYZX TAXIWAY\A:freetext
+Free Text:CYZX CYZX TAXIWAY\B:freetext
+Free Text:CYZX CYZX TAXIWAY\B:freetext
+Free Text:CYZX CYZX TAXIWAY\C:freetext
+Free Text:CYZX CYZX TAXIWAY\D:freetext
+Free Text:CYZX CYZX TAXIWAY\E:freetext
+Free Text:CYZX CYZX TAXIWAY\F:freetext
+Free Text:CYZX CYZX TAXIWAY\F:freetext
+Free Text:CYZX CYZX TAXIWAY\F:freetext
+Free Text:CYZX CYZX TAXIWAY\G:freetext
+Free Text:CYZX CYZX TAXIWAY\H:freetext
+Free Text:CYZX CYZX TAXIWAY\J:freetext
+Free Text:CYZX CYZX TAXIWAY\K:freetext
+Free Text:CYZX CYZX TAXIWAY\L:freetext
+Free Text:CYZX CYZX TAXIWAY\M:freetext
+Free Text:CYZX CYZX TAXIWAY\R:freetext
+Geo:CYFC Groundlayout YFC:
+Geo:CYHZ Groundlayout CYHZ:
+Geo:CYQM Groundlayout CYQM:
+Geo:CYQX Groundlayout Gander:
+Geo:CYYR Groundlayout Goose Bay:
+Geo:CYYT Groundlayout St Johns:
+Geo:CZQM Coastline:
+Regions:CYQM Moncton:polygon
+Regions:CYYR Goose Bay:polygon
+Regions:CYYT St. Johns:polygon
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:NARDS
+WINDOWAREA:53.286434:-60.503029:53.348157:-60.337431

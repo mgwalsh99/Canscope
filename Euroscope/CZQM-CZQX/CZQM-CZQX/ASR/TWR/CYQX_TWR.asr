@@ -1,0 +1,270 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:CYQX Gander Terminal:
+ARTCC low boundary:CYQX Gander TWR CZ:
+Geo:CZQM Coastline:
+Low airways:A3:line
+Low airways:A3:name
+Low airways:A8:line
+Low airways:A8:name
+Low airways:AR13:line
+Low airways:AR13:name
+Low airways:AR17:line
+Low airways:AR17:name
+Low airways:AR28:line
+Low airways:AR28:name
+Low airways:AR29:line
+Low airways:AR29:name
+Low airways:AR38:line
+Low airways:AR38:name
+Low airways:CAE8:line
+Low airways:CAE8:name
+Low airways:L600:line
+Low airways:L600:name
+Low airways:L602:line
+Low airways:L602:name
+Low airways:L608:line
+Low airways:L608:name
+Low airways:L630:line
+Low airways:L630:name
+Low airways:L632:line
+Low airways:L632:name
+Low airways:L633:line
+Low airways:L633:name
+Low airways:L634:line
+Low airways:L634:name
+Low airways:L643:line
+Low airways:L643:name
+Low airways:L657:line
+Low airways:L657:name
+Low airways:L658:line
+Low airways:L658:name
+Low airways:L688:line
+Low airways:L688:name
+Low airways:L705:line
+Low airways:L705:name
+Low airways:L715:line
+Low airways:L715:name
+Low airways:L721:line
+Low airways:L721:name
+Low airways:L727:line
+Low airways:L727:name
+Low airways:L729:line
+Low airways:L729:name
+Low airways:L743:line
+Low airways:L743:name
+Low airways:L787:line
+Low airways:L787:name
+Low airways:M201:line
+Low airways:M201:name
+Low airways:M202:line
+Low airways:M202:name
+Low airways:M203:line
+Low airways:M203:name
+Low airways:R56:line
+Low airways:R56:name
+Low airways:RR5:line
+Low airways:RR5:name
+Low airways:T216:line
+Low airways:T216:name
+Low airways:T224:line
+Low airways:T224:name
+Low airways:T255:line
+Low airways:T255:name
+Low airways:T295:line
+Low airways:T295:name
+Low airways:T300:line
+Low airways:T300:name
+Low airways:T314:line
+Low airways:T314:name
+Low airways:T316:line
+Low airways:T316:name
+Low airways:T393:line
+Low airways:T393:name
+Low airways:T395:line
+Low airways:T395:name
+Low airways:T601:line
+Low airways:T601:name
+Low airways:T603:line
+Low airways:T603:name
+Low airways:T604:line
+Low airways:T604:name
+Low airways:T608:line
+Low airways:T608:name
+Low airways:T612:line
+Low airways:T612:name
+Low airways:T614:line
+Low airways:T614:name
+Low airways:T616:line
+Low airways:T616:name
+Low airways:T660:line
+Low airways:T660:name
+Low airways:T662:line
+Low airways:T662:name
+Low airways:T672:line
+Low airways:T672:name
+Low airways:T677:line
+Low airways:T677:name
+Low airways:T693:line
+Low airways:T693:name
+Low airways:T697:line
+Low airways:T697:name
+Low airways:T698:line
+Low airways:T698:name
+Low airways:T699:line
+Low airways:T699:name
+Low airways:T735:line
+Low airways:T735:name
+Low airways:T737:line
+Low airways:T737:name
+Low airways:T739:line
+Low airways:T739:name
+Low airways:T741:line
+Low airways:T741:name
+Low airways:T781:line
+Low airways:T781:name
+Low airways:T783:line
+Low airways:T783:name
+Low airways:V1:line
+Low airways:V1:name
+Low airways:V139:line
+Low airways:V139:name
+Low airways:V141:line
+Low airways:V141:name
+Low airways:V146:line
+Low airways:V146:name
+Low airways:V16:line
+Low airways:V16:name
+Low airways:V167:line
+Low airways:V167:name
+Low airways:V268:line
+Low airways:V268:name
+Low airways:V270:line
+Low airways:V270:name
+Low airways:V292:line
+Low airways:V292:name
+Low airways:V3:line
+Low airways:V3:name
+Low airways:V300:line
+Low airways:V300:name
+Low airways:V302:line
+Low airways:V302:name
+Low airways:V310:line
+Low airways:V310:name
+Low airways:V311:line
+Low airways:V311:name
+Low airways:V312:line
+Low airways:V312:name
+Low airways:V313:line
+Low airways:V313:name
+Low airways:V314:line
+Low airways:V314:name
+Low airways:V315:line
+Low airways:V315:name
+Low airways:V316:line
+Low airways:V316:name
+Low airways:V318:line
+Low airways:V318:name
+Low airways:V319:line
+Low airways:V319:name
+Low airways:V322:line
+Low airways:V322:name
+Low airways:V34:line
+Low airways:V34:name
+Low airways:V360:line
+Low airways:V360:name
+Low airways:V374:line
+Low airways:V374:name
+Low airways:V380:line
+Low airways:V380:name
+Low airways:V381:line
+Low airways:V381:name
+Low airways:V382:line
+Low airways:V382:name
+Low airways:V384:line
+Low airways:V384:name
+Low airways:V39:line
+Low airways:V39:name
+Low airways:V405:line
+Low airways:V405:name
+Low airways:V431:line
+Low airways:V431:name
+Low airways:V46:line
+Low airways:V46:name
+Low airways:V471:line
+Low airways:V471:name
+Low airways:V488:line
+Low airways:V488:name
+Low airways:W21:line
+Low airways:W21:name
+Low airways:W27:line
+Low airways:W27:name
+Low airways:W51:line
+Low airways:W51:name
+Low airways:W60:line
+Low airways:W60:name
+Low airways:Y481:line
+Low airways:Y481:name
+Low airways:Y482:line
+Low airways:Y482:name
+Low airways:Y487:line
+Low airways:Y487:name
+Low airways:Y488:line
+Low airways:Y488:name
+Low airways:Y489:line
+Low airways:Y489:name
+Low airways:Y490:line
+Low airways:Y490:name
+Low airways:Y492:line
+Low airways:Y492:name
+Low airways:Y578:line
+Low airways:Y578:name
+Runways:CYQX 03-21:centerline
+Runways:CYQX 03-21:extended centerline 1
+Runways:CYQX 03-21:extended centerline 1 left base
+Runways:CYQX 03-21:extended centerline 1 left ticks
+Runways:CYQX 03-21:extended centerline 1 left vectoring
+Runways:CYQX 03-21:extended centerline 1 right base
+Runways:CYQX 03-21:extended centerline 1 right ticks
+Runways:CYQX 03-21:extended centerline 1 right vectoring
+Runways:CYQX 03-21:extended centerline 2
+Runways:CYQX 03-21:extended centerline 2 left base
+Runways:CYQX 03-21:extended centerline 2 left ticks
+Runways:CYQX 03-21:extended centerline 2 left vectoring
+Runways:CYQX 03-21:extended centerline 2 right base
+Runways:CYQX 03-21:extended centerline 2 right ticks
+Runways:CYQX 03-21:extended centerline 2 right vectoring
+Runways:CYQX 13-31:centerline
+Runways:CYQX 13-31:extended centerline 1
+Runways:CYQX 13-31:extended centerline 1 left base
+Runways:CYQX 13-31:extended centerline 1 left ticks
+Runways:CYQX 13-31:extended centerline 1 left vectoring
+Runways:CYQX 13-31:extended centerline 1 right base
+Runways:CYQX 13-31:extended centerline 1 right ticks
+Runways:CYQX 13-31:extended centerline 1 right vectoring
+Runways:CYQX 13-31:extended centerline 2
+Runways:CYQX 13-31:extended centerline 2 left base
+Runways:CYQX 13-31:extended centerline 2 left ticks
+Runways:CYQX 13-31:extended centerline 2 left vectoring
+Runways:CYQX 13-31:extended centerline 2 right base
+Runways:CYQX 13-31:extended centerline 2 right ticks
+Runways:CYQX 13-31:extended centerline 2 right vectoring
+VORs:YQX:name
+VORs:YQX:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:48.532444:-55.729995:49.385777:-53.440534

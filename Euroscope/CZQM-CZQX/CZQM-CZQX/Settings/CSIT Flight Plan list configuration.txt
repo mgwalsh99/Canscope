@@ -1,0 +1,19 @@
+FP
+m_Visible:1
+m_X:1187
+m_Y:329
+m_LineNumber:0
+m_Resizable:1
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:ACID:7:0:9:0:8:1::::0:0.0
+m_Column:DEP:5:1:61:1:1:1::::1:0.0
+m_Column:DEST:5:1:17:7:7:1::::1:0.0
+m_Column:ASSR:4:1:60:31:34:1::::1:0.0
+m_Column:EVT:3:0:5000:0:0:0:VATCAN Bookings:::1:0.0
+m_Column:OCX:6:0:5008:0:0:1:VATCAN Bookings:::1:0.0
+m_Column:NAT:3:0:5003:0:0:1:VATCAN Bookings:::1:0.0
+m_Column:M#:5:0:5006:0:0:1:VATCAN Bookings:::1:0.0
+m_Column:LVL:5:0:5005:0:0:1:VATCAN Bookings:::1:0.0
+m_Column:C/S:7:0:5004:0:0:1:VATCAN Bookings:::1:0.0
+END

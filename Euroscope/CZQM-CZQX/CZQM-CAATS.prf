@@ -1,0 +1,41 @@
+Settings	alias	\CZQM-CZQX\Alias\alias.txt
+Settings	airlines	\CZQM-CZQX\ICAO\ICAO_Airlines.txt
+Settings	aircraft	\CZQM-CZQX\ICAO\ICAO_Aircraft.txt
+Settings	airports	\CZQM-CZQX\ICAO\ICAO_Airports.txt
+Settings	airways	\CZQM-CZQX\NavData\airway.txt
+Settings	AtisFolder	\CZQM-CZQX\ATIS\Atis_Canada.txt
+Settings	Settingsfile	\CZQM-CZQX\Settings\CAATS General settings.txt
+Settings	SettingsfileSCREEN	\CZQM-CZQX\Settings\CAATS Screen layout.txt
+Settings	SettingsfileSYMBOLOGY	\CZQM-CZQX\Settings\CAATS Symbology.txt
+Settings	SettingsfileTAGS	\CZQM-CZQX\Settings\CAATS TAG definations.txt
+Settings	SettingsfileSIL	\CZQM-CZQX\Settings\CAATS Sector inbound list configuration.txt
+Settings	SettingsfileSEL	\CZQM-CZQX\Settings\CAATS Sector exit list configuration.txt
+Settings	SettingsfileDEP	\CZQM-CZQX\Settings\CAATS Departure list configuration.txt
+Settings	SettingsfilePLUGINS	\CZQM-CZQX\Settings\CAATS Plug-in settings.txt
+Settings	SettingsfileARR	\CZQM-CZQX\Settings\CAATS Arrival list configuration.txt
+Settings	SettingsfileFP	\CZQM-CZQX\Settings\CAATS Flight Plan list configuration.txt
+Sounds	Sound0	\CZQM-CZQX\Sounds\handoff_request.wav
+Sounds	Sound1	\CZQM-CZQX\Sounds\handoff_accept.wav
+Sounds	Sound2	\CZQM-CZQX\Sounds\conflict_alert.wav
+Sounds	Sound3	\CZQM-CZQX\Sounds\radio_message.wav
+Sounds	Sound4	\CZQM-CZQX\Sounds\private_message.wav
+Sounds	Sound5	\CZQM-CZQX\Sounds\atc_message.wav
+Sounds	Sound6	\CZQM-CZQX\Sounds\broadcast_message.wav
+Sounds	Sound7	\CZQM-CZQX\Sounds\landline_request.wav
+Sounds	Sound8	\CZQM-CZQX\Sounds\supervisor_message.wav
+Sounds	Sound9	\CZQM-CZQX\Sounds\connected.wav
+Sounds	Sound10	\CZQM-CZQX\Sounds\disconnected.wav
+Sounds	Sound11	\CZQM-CZQX\Sounds\ongoing_request.wav
+Sounds	Sound12	\CZQM-CZQX\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\CZQM-CZQX\Sounds\ongoing_refused.wav
+Sounds	Sound14	\CZQM-CZQX\Sounds\ongoing_manual.wav
+Sounds	Sound15	\CZQM-CZQX\Sounds\new_atis.wav
+Sounds	Sound16	\CZQM-CZQX\Sounds\handoff_refused.wav
+Sounds	Sound17	\CZQM-CZQX\Sounds\pointout.wav
+Sounds	Sound18	\CZQM-CZQX\Sounds\startup.wav
+Settings	SettingsfilePROFILE	\CZQM-CZQX\Other\Login profiles.txt
+Settings	SettingsfileVOICE	\CZQM-CZQX\Settings\VoiceChannels.txt
+Plugins	Plugin0	\CZQM-CZQX\Plugins\VATCANSitu.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1Display0	Standard ES radar screen
+Plugins	Plugin2Display0	Standard ES radar screen

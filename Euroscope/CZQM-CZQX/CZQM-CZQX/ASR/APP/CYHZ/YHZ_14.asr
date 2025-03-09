@@ -1,0 +1,154 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+ARTCC low boundary:CYHZ Halifax TW CZ:
+ARTCC low boundary:CYHZ YHZ APP:
+ARTCC low boundary:CYZX YZX APP:
+Fixes:AGMIR:name
+Fixes:AGMIR:symbol
+Fixes:BAFDY:name
+Fixes:BAFDY:symbol
+Fixes:BOSUB:name
+Fixes:BOSUB:symbol
+Fixes:CAYLY:name
+Fixes:CAYLY:symbol
+Fixes:DUSEN:name
+Fixes:DUSEN:symbol
+Fixes:EBKID:name
+Fixes:EBKID:symbol
+Fixes:ETGAR:name
+Fixes:ETGAR:symbol
+Fixes:GADKA:name
+Fixes:GADKA:symbol
+Fixes:KELNO:name
+Fixes:KELNO:symbol
+Fixes:LIRLA:name
+Fixes:LIRLA:symbol
+Fixes:LOKRI:name
+Fixes:LOKRI:symbol
+Fixes:MUVOX:name
+Fixes:MUVOX:symbol
+Fixes:NOTOP:name
+Fixes:NOTOP:symbol
+Fixes:NUTBY:name
+Fixes:NUTBY:symbol
+Fixes:SENVI:name
+Fixes:SENVI:symbol
+Geo:CZQM Coastline:
+Low airways:T698:line
+Low airways:T698:name
+Low airways:T735:line
+Low airways:T735:name
+Low airways:V300:line
+Low airways:V300:name
+Low airways:V310:line
+Low airways:V310:name
+Low airways:V312:line
+Low airways:V312:name
+Low airways:V313:line
+Low airways:V313:name
+Runways:CYFC 09-27:centerline
+Runways:CYFC 09-27:extended centerline 1
+Runways:CYFC 09-27:extended centerline 1 left base
+Runways:CYFC 09-27:extended centerline 1 left ticks
+Runways:CYFC 09-27:extended centerline 1 left vectoring
+Runways:CYFC 09-27:extended centerline 1 right base
+Runways:CYFC 09-27:extended centerline 1 right ticks
+Runways:CYFC 09-27:extended centerline 1 right vectoring
+Runways:CYFC 09-27:extended centerline 2
+Runways:CYFC 09-27:extended centerline 2 left base
+Runways:CYFC 09-27:extended centerline 2 left ticks
+Runways:CYFC 09-27:extended centerline 2 left vectoring
+Runways:CYFC 09-27:extended centerline 2 right base
+Runways:CYFC 09-27:extended centerline 2 right ticks
+Runways:CYFC 09-27:extended centerline 2 right vectoring
+Runways:CYFC 15-33:centerline
+Runways:CYFC 15-33:extended centerline 1
+Runways:CYFC 15-33:extended centerline 1 left base
+Runways:CYFC 15-33:extended centerline 1 left ticks
+Runways:CYFC 15-33:extended centerline 1 left vectoring
+Runways:CYFC 15-33:extended centerline 1 right base
+Runways:CYFC 15-33:extended centerline 1 right ticks
+Runways:CYFC 15-33:extended centerline 1 right vectoring
+Runways:CYFC 15-33:extended centerline 2
+Runways:CYFC 15-33:extended centerline 2 left base
+Runways:CYFC 15-33:extended centerline 2 left ticks
+Runways:CYFC 15-33:extended centerline 2 left vectoring
+Runways:CYFC 15-33:extended centerline 2 right base
+Runways:CYFC 15-33:extended centerline 2 right ticks
+Runways:CYFC 15-33:extended centerline 2 right vectoring
+Runways:CYHZ 05-23:centerline
+Runways:CYHZ 05-23:extended centerline 1
+Runways:CYHZ 05-23:extended centerline 1 left base
+Runways:CYHZ 05-23:extended centerline 1 left ticks
+Runways:CYHZ 05-23:extended centerline 1 left vectoring
+Runways:CYHZ 05-23:extended centerline 1 right base
+Runways:CYHZ 05-23:extended centerline 1 right ticks
+Runways:CYHZ 05-23:extended centerline 1 right vectoring
+Runways:CYHZ 05-23:extended centerline 2
+Runways:CYHZ 05-23:extended centerline 2 left base
+Runways:CYHZ 05-23:extended centerline 2 left ticks
+Runways:CYHZ 05-23:extended centerline 2 left vectoring
+Runways:CYHZ 05-23:extended centerline 2 right base
+Runways:CYHZ 05-23:extended centerline 2 right ticks
+Runways:CYHZ 05-23:extended centerline 2 right vectoring
+Runways:CYHZ 14-32:centerline
+Runways:CYHZ 14-32:extended centerline 1
+Runways:CYHZ 14-32:extended centerline 1 left base
+Runways:CYHZ 14-32:extended centerline 1 left ticks
+Runways:CYHZ 14-32:extended centerline 1 left vectoring
+Runways:CYHZ 14-32:extended centerline 1 right base
+Runways:CYHZ 14-32:extended centerline 1 right ticks
+Runways:CYHZ 14-32:extended centerline 1 right vectoring
+Runways:CYHZ 14-32:extended centerline 2
+Runways:CYHZ 14-32:extended centerline 2 left base
+Runways:CYHZ 14-32:extended centerline 2 left ticks
+Runways:CYHZ 14-32:extended centerline 2 left vectoring
+Runways:CYHZ 14-32:extended centerline 2 right base
+Runways:CYHZ 14-32:extended centerline 2 right ticks
+Runways:CYHZ 14-32:extended centerline 2 right vectoring
+Stars:CYHZ RNAV14-Y ILOTA:
+Stars:CYHZ RNAV14-Y TETAR:
+Stars:CYHZ RNAV14-Y VIMLA:
+Stars:CYHZ RNAV14-Z IGVOP:
+Stars:CYHZ RNAV14-Z MODIR:
+Stars:CYHZ STAR 14 CABOT5:
+Stars:CYHZ STAR 14 FUNDY5:
+Stars:CYHZ STAR 14 LIRLA5:
+Stars:CYHZ STAR 14 MINAS1:
+Stars:CYHZ STAR 14 PEGGY5:
+Stars:CYHZ STAR AGMIR LIRLA5:
+Stars:CYHZ STAR ALLEX FUNDY5:
+Stars:CYHZ STAR CAYLY CABOT5:
+Stars:CYHZ STAR EBONY FUNDY5:
+Stars:CYHZ STAR ELERI PEGGY5:
+Stars:CYHZ STAR OMVEV MINAS1:
+Stars:CYHZ STAR TUSKY PEGGY5:
+VORs:YFC:name
+VORs:YFC:symbol
+VORs:YHZ:name
+VORs:YHZ:symbol
+VORs:YQM:name
+VORs:YQM:symbol
+VORs:YQY:name
+VORs:YQY:symbol
+VORs:YSJ:name
+VORs:YSJ:symbol
+VORs:YYG:name
+VORs:YYG:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:24200
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:8
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:18.00000
+TAGFAMILY:CSiT
+WINDOWAREA:43.888806:-66.401836:46.167779:-60.287441
